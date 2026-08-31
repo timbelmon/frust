@@ -1,5 +1,5 @@
 ---
-title: frust
+title: Home
 ---
 
 „Streite niemals mit dummen Leuten. Sie werden dich auf ihr Level runterziehen und dich dort mit Erfahrung schlagen.“ - Mark Twain
