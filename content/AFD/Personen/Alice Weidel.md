@@ -1,4 +1,4 @@
-# Alice Weidel: Die Parteispendenaffäre der AfD-Vorsitzenden
+# Die Parteispendenaffäre der AfD-Vorsitzenden
 
 Alice Weidel ist seit 2017 AfD-Spitzenkandidatin und seit 2022 Co-Bundesvorsitzende der Partei. Ihre Kanzlerkandidatur 2025 machte sie zur bekanntesten AfD-Figur – und zur zentralen Figur der größten Parteispendenaffäre der Bundesrepublik. Eine der höchsten Ordnungsgelder in der Geschichte des Parteiengesetzes geht auf Spenden zurück, die in ihrem Kreisverband eingingen; die wahre Spenderidentität wurde über Schweizer Firmen und Strohmänner verschleiert. Weidel persönlich konnte strafrechtlich nie verurteilt werden – die dokumentierten Sanktionen trafen die Partei.
 

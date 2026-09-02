@@ -1,4 +1,4 @@
-# Björn Höcke: Vom NPD-Autor „Landolf Ladig" zum zweifach rechtskräftig verurteilten AfD-Chef Thüringens
+# Vom NPD-Autor „Landolf Ladig" zum zweifach rechtskräftig verurteilten AfD-Chef Thüringens
 
 Björn Höcke ist der Kopf des völkisch-nationalistischen Lagers der AfD und seit 2014 Landesvorsitzender in Thüringen. Der studierte Historiker ist der einzige prominente deutsche Bundespolitiker, der wegen der Verwendung einer NS-Parole **zweimal rechtskräftig verurteilt** wurde. Seine Biografie umfasst NPD-Publikationen unter Pseudonym, die Einstufung als Rechtsextremist durch den Verfassungsschutz und den Triumph der AfD als stärkste Kraft einer Landtagswahl – bei ausbleibender Regierungsverantwortung.
 

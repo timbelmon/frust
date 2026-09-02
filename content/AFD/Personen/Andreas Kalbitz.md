@@ -1,4 +1,4 @@
-# Andreas Kalbitz: Vom verschwiegenen Neonazi-Hintergrund zum ausgeschlossenen AfD-Landeschef
+# Vom verschwiegenen Neonazi-Hintergrund zum ausgeschlossenen AfD-Landeschef
 
 Andreas Kalbitz war bis 2020 einer der mächtigsten AfD-Politiker im Osten: Landeschef in Brandenburg, Mitglied im Bundesvorstand, Kopf des völkischen „Flügels" neben Björn Höcke. Sein Fall wurde zum Präzedenzfall des Parteienrechts – die AfD schloss ihren eigenen Landeschef aus, weil er beim Parteieintritt eine Vergangenheit in der rechtsextremen Szene verschwiegen hatte. Der Ausschluss wurde durch mehrere Instanzen bestätigt; der Verfassungsschutz führt Kalbitz auf einer HDJ-Mitgliederliste. Berichten zufolge arbeitet er heute wieder für AfD-Abgeordnete – derselbe Mann, dessen Fall einst die „Brandmauer"-Debatte anheizte.
 
