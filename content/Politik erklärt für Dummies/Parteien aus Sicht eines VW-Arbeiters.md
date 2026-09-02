@@ -46,4 +46,4 @@ Für einen VW-Arbeiter ist die AfD keine Alternative, sondern der Totengräber d
     
 - Christlich-Demokratische Arbeitnehmerschaft (CDA Baden-Württemberg): [AfD: Keine Alternative für Beschäftigte](https://www.cda-badenwuerttemberg.de/afdkeinealternative/)
 
-Verwandte Artikel: [[AFD/Perspektive & Praxis/Mindestlohn & Tarifverträge|Mindestlohn & Tarifverträge]] · [[Wer die AfD kauft|Wer die AfD kauft]]
+Verwandte Artikel: [[AFD/Perspektive & Praxis/Mindestlohn & Tarifverträge|Mindestlohn & Tarifverträge]] · [[Wer die AfD kauft|Wer die AfD kauft]] · [[Grüne & VW|Flurfunk-Check: Grüne & VW]]
