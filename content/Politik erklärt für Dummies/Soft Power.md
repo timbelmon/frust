@@ -28,3 +28,5 @@ Gelder dieser Größenordnung werden in der Geopolitik nicht aus reiner Wohltät
 * Bundesministerium für wirtschaftliche Zusammenarbeit und Entwicklung (BMZ): [Demokratische Republik Kongo - Länderdaten](https://www.bmz.de/de/laender/demokratische-republik-kongo)
 * Die Zeit: [Demokratische Republik Kongo: Deutschland will Ebolahilfen um elf Millionen Euro aufstocken](https://www.zeit.de/politik/deutschland/2026-08/ebola-epidemie-demokratische-republik-kongo-reem-alabali-radovan-deutschland-hilfe-gxe)
 * taz (Die Tageszeitung): [Kongos Regierung auf Lobbytour in Deutschland](https://taz.de/Regierungsverhandlungen-in-Berlin/!6137077/)
+
+Verwandte Artikel: [[Politik erklärt für Dummies/Entwicklungshilfe|Entwicklungshilfe]] · [[Politik erklärt für Dummies/UN-Beiträge|UN-Beiträge]] · [[Politik erklärt für Dummies/EU-Nettozahler|EU-Nettozahler]]
