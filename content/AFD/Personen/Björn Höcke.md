@@ -49,7 +49,14 @@ In einem Interview mit der US-amerikanischen Tageszeitung *The Wall Street Journ
 
 ## Quellen & Verweise
 
-* **NS-Parole / BGH-Urteil:** ZDF-Berichterstattung zum BGH-Urteil gegen Björn Höcke; Tagesschau-Archiv.
-* **Westdeutschland-Äußerungen:** Focus Online („Wer ist Deutsch? Höcke will bewahren, was es nicht mehr gibt“, Juni 2026) / Gespräche bei Welt TV und im Format „Ben ungeskriptet“.
-* **Denkmal der Schande:** Deutschlandfunk / Berichterstattung zum Dresdner Rede-Eklat 2017.
-* **Wall-Street-Journal-Interview:** Dokumentation durch das *Wall Street Journal* sowie Zusammenfassungen z. B. via Campact / politische Archive.
+* BGH: [Pressemitteilung zum BGH-Urteil (11.09.2025)](https://www.bundesgerichtshof.de/SharedDocs/Pressemitteilungen/DE/2025/2025168.html)
+* Tagesschau: [Urteile gegen Höcke wegen NS-Parole rechtskräftig](https://www.tagesschau.de/inland/innenpolitik/urteil-bestaetigung-hoecke-100.html)
+* ZDFheute: [Urteile gegen Höcke wegen NS-Parole rechtskräftig](https://www.zdfheute.de/politik/deutschland/bjoern-hoecke-afd-urteil-ns-parole-bgh-100.html)
+* Focus Online: [„Wer ist Deutsch? Höcke will bewahren, was es nicht mehr gibt" (09.06.2026)](https://www.focus.de/politik/deutschland/wer-ist-deutsch-hoecke-will-bewahren-was-es-nicht-mehr-gibt_4fe6f3da-42c0-4518-ad1b-b21e4a1954c2.html)
+* Deutschlandfunk: [Rede von Björn Höcke – Provokation, Berichterstattung und Dementi (18.01.2017)](https://www.deutschlandfunk.de/rede-von-bjoern-hoecke-provokation-berichterstattung-und-100.html)
+* Deutschlandfunk Kultur: [Umstrittene Höcke-Rede – Provokation als politisches Werkzeug (18.01.2017)](https://www.deutschlandfunkkultur.de/umstrittene-hoecke-rede-provokation-als-politisches-werkzeug-100.html)
+* The Wall Street Journal: [The German Right Believes It's Time to Discard the Country's Historical Guilt (02.03.2017)](https://www.wsj.com/articles/the-german-right-believes-its-time-to-discard-their-countrys-historical-guilt-1488467995)
+* Berliner Zeitung: [AfD-Politiker: Björn Höcke bestreitet, dass Adolf Hitler „absolut böse" war (07.03.2017)](https://www.berliner-zeitung.de/article/afd-politiker-bjoern-hoecke-bestreitet-dass-adolf-hitler-absolut-boese-war-49384)
+* Tagesschau: [Verfassungsschutz zu AfD-„Flügel": Erwiesen rechtsextrem (01.04.2020)](https://www.tagesschau.de/inland/afd-fluegel-verfassungsschutz-101.html)
+* Tagesschau: [AfD-„Flügel" löst sich auf (21.03.2020)](https://www.tagesschau.de/inland/ald-fluegel-101.html)
+* Die Zeit: [AfD-Flügel-Auflösung: Ein Fall von strategischer Kosmetik (20.03.2020)](https://www.zeit.de/politik/deutschland/2020-03/afd-fluegel-aufloesung-bjoern-hoecke-personal-positionen)
