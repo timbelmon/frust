@@ -16,7 +16,7 @@ Kein einziges dieser Argumente verweist auf die Klimapolitik einer deutschen Par
 
 Der Ausstieg aus dem Verbrenner ab 2035 ist **EU-Gesetz** („Fit for 55"), beschlossen von EU-Parlament und Rat – nicht von Robert Habeck. Und die deutsche Bundesregierung war dabei nicht einmal der Vorreiter-Pro-Opfer-Klub, als den man die Grünen hinstellt: Es war ausgerechnet der **FDP-Verkehrsminister Volker Wissing**, der die Zustimmung wochenlang blockierte, um eine E-Fuels-Ausnahme durchzusetzen.
 
-Noch entscheidender: **VW-Chef Oliver Blume unterstützte das EU-Verbrenner-Aus öffentlich** („Heutige Elektrofahrzeuge sind Verbrennern haushoch überlegen"). Der Konzern hat sein Scheitern also nicht dem EU-Ziel angelastet – sondern der Umsetzung und dem China-Wettbewerb.
+Die meiste Zeit hieß es von VW-Chef Oliver Blume, man unterstütze das EU-Verbrenner-Aus – der Konzern schob sein Scheitern also nicht dem EU-Ziel, sondern der Umsetzung und dem China-Wettbewerb in die Schuhe. Erst 2025 ruderte Blume zurück und nannte das 2035-Ziel „unrealistisch" – eine Meinungsänderung des Konzernchefs, keine Erfindung eines Grünen-Ministers.
 
 ### Wer hat die E-Auto-Förderung wirklich gestrichen?
 
@@ -54,14 +54,14 @@ Das ist der eigentliche Flurfunk: Er ist nicht falsch, weil er Wut hat – sonde
 * Wirtschaftswoche: [VW in der Krise – warum der Gewinn um ein Drittel einbricht](https://www.wiwo.de/unternehmen/auto/vw-in-der-krise-warum-der-vw-gewinn-um-ein-drittel-einbricht/100242501.html)
 * Manager Magazin: [Habeck kritisiert E-Auto-Strategie – „Dann wird Volkswagen scheitern" (07.05.2019)](https://www.manager-magazin.de/unternehmen/autoindustrie/volkswagen-gruenen-chef-robert-habeck-kritisiert-e-auto-strategie-a-1266077.html)
 * Handelsblatt: [EU beschließt Verbrenner-Aus mit Ausnahmen für E-Fuels (28.03.2023)](https://www.handelsblatt.com/politik/international/e-fuels-eu-beschliesst-endgueltig-weitgehendes-verbrenner-aus/29062958.html)
-* Berliner Zeitung: [Kaufprämie gestrichen – so rechtfertigt Lindner das Ende der Förderung (17.12.2023)](https://www.berliner-zeitung.de/article/kaufpraemie-gestrichen-so-rechtfertigt-christian-lindner-das-ende-der-foerderung-fuer-e-autos-2169410)
-* Merkur: [E-Auto-Kaufprämie gestrichen – Autopapst wirft Ampel Betrug vor (18.12.2023)](https://www.merkur.de/politik/kaufpraemie-elektroautos-umwelt-bonus-gestrichen-dudenhoeffer-betrug-ampel-eauto-praemie-foerderung-92734479.html)
+* Tagesschau: [Umweltbonus gestrichen – Karlsruhe-Urteil, Ampel-Entscheid, Lindner (15.12.2023)](https://www.tagesschau.de/wirtschaft/verbraucher/elektroautos-umweltbonus-foerderstopp-100.html)
+* ZEIT: [Kaufprämie endet – Lindner-Stellungnahme (16.12.2023)](https://www.zeit.de/news/2023-12/16/umweltbonus-fuer-elektroautos-endet-am-sonntag-um-mitternacht)
 * Frankfurter Rundschau: [Habeck besucht VW-Werk Emden, kündigt Autogipfel an (23.09.2024)](https://www.fr.de/wirtschaft/autoindustrie-in-der-krise-kommt-jetzt-die-neue-foerderung-fuer-e-autos-93313094.html)
 * IW Köln: [Die Automobilindustrie im Jahr 2024 (IW-Report Nr. 38)](https://www.iwkoeln.de/studien/thomas-puls-die-automobilindustrie-im-jahr-2024.html)
 * DIW: [Nicht nur bei VW – wieso Arbeitsplatzabbau manchmal nötig ist](https://www.diw.de/de/diw_01.c.924627.de/publikationen/wochenberichte/2024_45_3/nicht_nur_bei_vw__wieso_arbeitsplatzabbau_manchmal_noetig_ist__kommentar.html)
-* Greenpeace (zit. Capital): [VW-Chef Blume unterstützt Verbrenner-Aus 2035](https://www.greenpeace.de/klimaschutz/mobilitaet/verbrenner-verbot-2035-fuer-gesundheit-und-klima)
-* Automobil Industrie: [VWs China-Dilemma: Marktanteile verloren, Profite mit Verbrenner](https://www.automobil-industrie.vogel.de/vw-bilanz-2024-china-a-6cd219507ee444729f3909c1b89b4301/)
+* ZDFheute: [Blume zweifelt am Verbrenner-Aus 2035 (26.04.2025)](https://www.zdfheute.de/wirtschaft/unternehmen/volkswagen-blume-zweifel-verbrenner-2035-100.html)
+* ZEIT: [VW-Chef Blume: Verbrenner-Aus 2035 ist unrealistisch (09.10.2025)](https://www.zeit.de/news/2025-10/09/vw-chef-blume-verbrenner-aus-2035-ist-unrealistisch)
 
 ---
 
-Verwandte Artikel: [[Politik erklärt für Dummies/Parteien aus Sicht eines VW-Arbeiters|Parteien aus Sicht eines VW-Arbeiters]]
+Verwandte Artikel: [[VW/AfD & VW|AfD & VW]] · [[AFD/Rechtsradikal/Verfassungsschutz|Verfassungsschutz]]
