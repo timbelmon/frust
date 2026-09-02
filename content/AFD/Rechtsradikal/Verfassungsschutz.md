@@ -19,3 +19,5 @@
 ## Quellen & Verweise
 * ZDF: [AfD-Gutachten des Verfassungsschutzes](https://www.zdfheute.de/politik/deutschland/afd-verfassungsschutz-gutachten-rechtsextremistisch-100.html)
 * Verwaltungsgericht Köln: [Beschluss vom 26.02.2026 (Az.: 13 L 1109/25)](https://recht.nulegal.eu/rechtsprechung/vg-koeln/2026-02-26/13-1-1109-25)
+
+Verwandte Artikel: [[AFD/Personen/Björn Höcke|Björn Höcke]] · [[AFD/Rechtsradikal/Potsdam Treffen|Potsdam Treffen]] · [[AFD/Schwurbeleien/Great Replacement|Great Replacement]]

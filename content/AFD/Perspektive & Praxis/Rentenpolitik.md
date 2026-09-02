@@ -21,3 +21,5 @@ Die Große Koalition führte die Grundrente ein – einen Aufschlag für Mensche
 * Deutscher Bundestag: [Drucksache 19/18473 – Grundrentengesetz](https://dserver.bundestag.de/btd/19/184/1918473.pdf)
 * Deutscher Bundestag: [Drucksache 20/11898 – Rentenpaket II (Aktienrente)](https://dserver.bundestag.de/btd/20/118/2011898.pdf)
 * Deutscher Bundestag: [Drucksache 21/1929 – Rentenpaket 2025](https://dserver.bundestag.de/btd/21/019/2101929.pdf)
+
+Verwandte Artikel: [[AFD/Perspektive & Praxis/Sozialsysteme & Bürgergeld (Hartz IV)|Sozialsysteme & Bürgergeld]] · [[AFD/Perspektive & Praxis/Steuerpolitik|Steuerpolitik]] · [[Wer die AfD kauft|Wer die AfD kauft]]

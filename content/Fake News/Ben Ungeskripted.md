@@ -33,3 +33,5 @@ Nicht umsonst geriet Berndt massiv in die Kritik von reichweitenstarken YouTube-
 * **Der Tagesspiegel**: [Nach kontroversem Gastauftritt von Höcke: Medienanstalt fordert von Podcaster Berndt nachträgliche Korrektur](https://www.tagesspiegel.de/gesellschaft/medien/nach-kontroversem-gastauftritt-von-hocke-medienanstalt-fordert-von-podcaster-berndt-nachtragliche-korrektur--der-wehrt-sich-juristisch-15781364.html) beleuchtet die Details der behördlichen Beanstandung bezüglich der SA-Falschbehauptung im Podcast.
 * **Berliner Zeitung**: [„Der Staat will mich zensieren“: Landesmedienanstalt geht gegen „ungeskriptet“-Podcast vor](https://www.berliner-zeitung.de/article/landesmedienanstalt-ben-berndt-ungeskriptet-10140428) dokumentiert Berndts scharfe öffentliche Reaktion auf den Vorstoß der Medienaufsicht.
 * {ungeskriptet} Offizielle Selbstbeschreibung: [Über das Konzept von Benjamin Berndt](https://www.ungeskriptet.com/about)
+
+Verwandte Artikel: [[AFD/Personen/Björn Höcke|Björn Höcke]] · [[AFD/Rechtsradikal/Verfassungsschutz|Verfassungsschutz]] · [[AFD/Schwurbeleien/Great Replacement|Great Replacement]]

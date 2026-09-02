@@ -17,3 +17,5 @@ Im November 2023 trafen sich in einem Hotel nahe Potsdam hochrangige AfD-Politik
 ## Quellen & Verweise
 * CORRECTIV: [Die bayerische AfD fordert Remigration im Millionenbereich](https://correctiv.org/aktuelles/neue-rechte/2024/11/25/die-bayerische-afd-fordert-remigration-im-millionenbereich-wir-haben-anhand-von-social-media-werbung-analysiert-wie-die-afd-den-begriff-remigration-normalisieren/)
 * CORRECTIV: [Das „Volk“ der Rechtsradikalen](https://correctiv.org/aktuelles/neue-rechte/2025/01/21/das-volk-der-rechtsradikalen/)
+
+Verwandte Artikel: [[AFD/Rechtsradikal/Verfassungsschutz|Verfassungsschutz]] · [[AFD/Schwurbeleien/Great Replacement|Great Replacement]] · [[AFD/Personen/Björn Höcke|Björn Höcke]]

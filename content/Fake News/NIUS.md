@@ -38,3 +38,5 @@ Die strategische Funktion von NIUS lässt sich auf zwei Ebenen beschreiben:
 * taz (Die Tageszeitung): [Rechtes Medienportal „Nius“: Grundprinzip verdrehte Fakten](https://taz.de/Rechtes-Medienportal-Nius/!5945019/)
 * Campact e.V.: [Was Sie über Nius wissen sollten](https://www.campact.de/empoerungsmedien/nius/)
 * Media Ownership Monitor Germany: [Frank Gotthardt & Medienbeteiligungen](https://germany.mom-gmr.org/de/owners/individual-owners/owner/frank-gotthardt-115044/)
+
+Verwandte Artikel: [[AFD/Rechtsradikal/Verfassungsschutz|Verfassungsschutz]] · [[AFD/Volksverräter/Voice of Europe|Voice of Europe]] · [[AFD/Personen/Björn Höcke|Björn Höcke]]

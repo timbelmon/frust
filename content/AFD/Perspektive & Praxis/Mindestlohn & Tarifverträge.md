@@ -17,3 +17,5 @@ Als der Bundestag 2022 die Erhöhung des Mindestlohns auf 12 Euro beschloss, ent
 * Deutscher Bundestag: [Namentliche Abstimmung Mindestlohnerhöhungsgesetz (03.06.2022)](https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=779)
 * Deutscher Bundestag: [Drucksache 19/21978 – Arbeitsschutzkontrollgesetz](https://dserver.bundestag.de/btd/19/219/1921978.pdf)
 * Deutscher Bundestag: [Namentliche Abstimmung Arbeitsschutzkontrollgesetz (16.12.2020)](https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=707)
+
+Verwandte Artikel: [[AFD/Perspektive & Praxis/Steuerpolitik|Steuerpolitik]] · [[Wer die AfD kauft|Wer die AfD kauft]]

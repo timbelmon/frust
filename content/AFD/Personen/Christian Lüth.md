@@ -22,3 +22,5 @@ Christian Lüth fungierte als Sprecher der AfD-Bundestagsfraktion. In einer heim
 * ZDFheute: [Gefeuerter Ex-AfD-Sprecher Lüth zurück im Bundestag (09.07.2024)](https://www.zdfheute.de/politik/deutschland/christian-lueth-afd-jan-wenzel-schmidt-referent-100.html)
 * Tagesschau: [Nach Skandal gefeuert und zurück im Bundestag (17.01.2026)](https://www.tagesschau.de/inland/innenpolitik/afd-lueth-bundestag-100.html)
 * Berliner Zeitung: [Vom Honduras-Putsch über die FDP zur AfD (20.01.2026)](https://www.berliner-zeitung.de/article/vom-honduras-putsch-in-den-bundestag-wie-christian-lueth-von-der-fdp-zur-afd-aufstieg-10014950)
+
+Verwandte Artikel: [[AFD/Personen/Björn Höcke|Björn Höcke]] · [[AFD/Rechtsradikal/Verfassungsschutz|Verfassungsschutz]]

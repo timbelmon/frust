@@ -45,3 +45,5 @@ Für einen VW-Arbeiter ist die AfD keine Alternative, sondern der Totengräber d
 - vorwärts: [AfD und Arbeitnehmer: Warum ihr Programm den „kleinen Leuten“ schadet](https://www.vorwaerts.de/meinung/afd-und-arbeitnehmer-warum-ihr-programm-den-kleinen-leuten-schadet)
     
 - Christlich-Demokratische Arbeitnehmerschaft (CDA Baden-Württemberg): [AfD: Keine Alternative für Beschäftigte](https://www.cda-badenwuerttemberg.de/afdkeinealternative/)
+
+Verwandte Artikel: [[AFD/Perspektive & Praxis/Mindestlohn & Tarifverträge|Mindestlohn & Tarifverträge]] · [[Wer die AfD kauft|Wer die AfD kauft]]

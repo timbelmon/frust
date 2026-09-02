@@ -18,3 +18,5 @@ Die AfD-Fraktion hat das Konzept der 25 %-Flat-Tax als konkreten Antrag in den B
 * AfD: [Grundsatzprogramm (2023)](https://www.afd.de/wp-content/uploads/2023/05/Programm_AfD_Online_.pdf)
 * AfD: [Bundestagswahlprogramm 2025 „Zeit für Deutschland"](https://www.afd.de/wp-content/uploads/2025/02/AfD_Bundestagswahlprogramm2025_web.pdf)
 * Deutscher Bundestag: [Drucksache 19/27184 – AfD-Antrag 25%-Flat-Tax](https://dserver.bundestag.de/btd/19/271/1927184.pdf)
+
+Verwandte Artikel: [[Wer die AfD kauft|Wer die AfD kauft]] · [[AFD/Perspektive & Praxis/Sozialsysteme & Bürgergeld (Hartz IV)|Sozialsysteme & Bürgergeld]]

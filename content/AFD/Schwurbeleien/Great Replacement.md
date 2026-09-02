@@ -28,3 +28,5 @@ Das Narrativ verknüpft reale integrationspolitische Herausforderungen mit absur
 
 * Bundeszentrale für politische Bildung (bpb): [Die Erzählung vom „großen Austausch“](https://www.bpb.de/themen/rechtsextremismus/dossier-rechtsextremismus/549525/die-erzaehlung-vom-grossen-austausch/)
 * Bundesamt für Verfassungsschutz (BfV): [Islamismus und islamistischer Terrorismus](https://www.verfassungsschutz.de/DE/verfassungsschutz/der-bericht/vsb-islamismus-und-islamistischer-terrorismus/vsb-islamismus-und-islamistischer-terrorismus_node.html)
+
+Verwandte Artikel: [[AFD/Rechtsradikal/Verfassungsschutz|Verfassungsschutz]] · [[AFD/Rechtsradikal/Potsdam Treffen|Potsdam Treffen]] · [[AFD/Personen/Björn Höcke|Björn Höcke]]

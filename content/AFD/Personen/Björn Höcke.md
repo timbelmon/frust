@@ -60,3 +60,5 @@ In einem Interview mit der US-amerikanischen Tageszeitung *The Wall Street Journ
 * Tagesschau: [Verfassungsschutz zu AfD-„Flügel": Erwiesen rechtsextrem (01.04.2020)](https://www.tagesschau.de/inland/afd-fluegel-verfassungsschutz-101.html)
 * Tagesschau: [AfD-„Flügel" löst sich auf (21.03.2020)](https://www.tagesschau.de/inland/ald-fluegel-101.html)
 * Die Zeit: [AfD-Flügel-Auflösung: Ein Fall von strategischer Kosmetik (20.03.2020)](https://www.zeit.de/politik/deutschland/2020-03/afd-fluegel-aufloesung-bjoern-hoecke-personal-positionen)
+
+Verwandte Artikel: [[AFD/Rechtsradikal/Verfassungsschutz|Verfassungsschutz]] · [[AFD/Rechtsradikal/Potsdam Treffen|Potsdam Treffen]] · [[AFD/Personen/Christian Lüth|Christian Lüth]]

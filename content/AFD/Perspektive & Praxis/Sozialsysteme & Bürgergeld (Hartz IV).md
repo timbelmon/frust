@@ -23,3 +23,5 @@ Als das Bürgergeld als Ersatz für Hartz IV eingeführt wurde (mit höheren Reg
 * Deutscher Bundestag: [Namentliche Abstimmung Bürgergeld (10.11.2022)](https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=810)
 * Deutscher Bundestag: [Drucksache 20/4051 – AfD-Antrag Sachleistungsprinzip](https://dserver.bundestag.de/btd/20/040/2004051.pdf)
 * Deutscher Bundestag: [Drucksache 20/8729 – CDU/CSU-Antrag Bezahlkarte](https://dserver.bundestag.de/btd/20/087/2008729.pdf)
+
+Verwandte Artikel: [[AFD/Perspektive & Praxis/Rentenpolitik|Rentenpolitik]] · [[AFD/Perspektive & Praxis/Steuerpolitik|Steuerpolitik]] · [[Wer die AfD kauft|Wer die AfD kauft]]
