@@ -1,4 +1,4 @@
-# AfD & VW: Die Partei, die deinen Job gefährdet, nicht rettet
+# Die Partei, die deinen Job gefährdet, nicht rettet
 
 **Die Totschlag-Zahl in einem Satz:** Das AfD-Steuerkonzept schenkt dem reichsten Prozent **45 Milliarden Euro im Jahr** und lässt dich als VW-Werker mit **rund 390 Euro** dastehen – und die Partei will genau die Leute aus deinem Werk drängen, die auf **der Hälfte der Sitze im VW-Aufsichtsrat** sitzen und deine Werke gegen die Schließung verteidigt haben.
 

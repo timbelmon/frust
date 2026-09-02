@@ -1,4 +1,4 @@
-## NIUS: Das digitale Resonanzboden- und Scharnierorgan der Rechten
+## Das digitale Resonanzboden- und Scharnierorgan der Rechten
 
 Das im Sommer 2023 gestartete Online-Portal **NIUS** (betrieben von der *Vius SE & Co. KGaA*) hat sich rasant zu einem der einflussreichsten digitalen Player im deutschsprachigen Raum entwickelt. Während die Macher den Anspruch erheben, eine vermeintlich „nach links gedriftete“ Mitte zu korrigieren, kommen Medienforscher, Journalistenwatchdogs und Politikwissenschaftler zu einem anderen Befund: NIUS funktioniert im Kern als hochemotionale Empörungs- und Propaganda-Maschine, die thematisch, rhetorisch und strategisch Hand in Hand mit den Narrativen der AfD arbeitet und als politisches Scharnier ins bürgerlich-konservative Lager dient.
 
@@ -9,7 +9,7 @@ Das im Sommer 2023 gestartete Online-Portal **NIUS** (betrieben von der *Vius SE
 Hinter der Fassade eines vermeintlich unabhängigen Graswurzel-Mediums stehen finanzstarke Strippenzieher und bekannte Boulevard-Profis:
 
 * **Julian Reichelt:** Als ehemaliger Chefredakteur der *Bild*-Zeitung, der dort nach Vorwürfen des Machtmissbrauchs freigestellt wurde, leitet er das Portal als publizistisches Gesicht. Reichelt bringt die Methoden des aggressiven Boulevardjournalismus, der Zuspitzung und der moralischen Aufladung in den digitalen Raum ein.
-* **Frank Gotthardt:** Der eigentliche Motor und Geldgeber ist der IT-Milliardär und Gründer von *CompuGroup Medical*. Gotthardt, der früher unter anderem im Wirtschaftsrat der CDU aktiv war, pumpt zweistellige Millionenbeträge (Schätzungen und Unternehmensberichte sprechen von weit über 40 Millionen Euro Verlustabdeckung in den ersten Jahren) in das Projekt, um ein alternatives rechtes Medienökosystem zu etablieren.
+* **Frank Gotthardt:** Der eigentliche Motor und Geldgeber ist der IT-Milliardär und Gründer von *CompuGroup Medical*. Gotthardt, der früher unter anderem im Wirtschaftsrat der CDU aktiv war, pumpt zweistellige Millionenbeträge (die Schätzung von weit über 40 Millionen Euro Verlustabdeckung basiert auf Angaben von Campact; eine unabhängige Bestätigung liegt nicht vor) in das Projekt, um ein alternatives rechtes Medienökosystem zu etablieren.
 
 ---
 
@@ -36,7 +36,7 @@ Die strategische Funktion von NIUS lässt sich auf zwei Ebenen beschreiben:
 ## Quellen & Verweise
 
 * taz (Die Tageszeitung): [Rechtes Medienportal „Nius“: Grundprinzip verdrehte Fakten](https://taz.de/Rechtes-Medienportal-Nius/!5945019/)
-* Campact e.V.: [Was Sie über Nius wissen sollten](https://www.campact.de/empoerungsmedien/nius/)
+* Campact e.V.: [Was Sie über Nius wissen sollten](https://www.campact.de/empoerungsmedien/nius/) – trägt als einzige Quelle die 40-Mio.-Euro-Verlustschätzung
 * Media Ownership Monitor Germany: [Frank Gotthardt & Medienbeteiligungen](https://germany.mom-gmr.org/de/owners/individual-owners/owner/frank-gotthardt-115044/)
 
-Verwandte Artikel: [[AFD/Rechtsradikal/Verfassungsschutz|Verfassungsschutz]] · [[AFD/Volksverräter/Voice of Europe|Voice of Europe]] · [[AFD/Personen/Björn Höcke|Björn Höcke]]
+Verwandte Artikel: [[Blacklist|Empörungsmedien-Blacklist]] · [[Compact|Compact]] · [[AUF1|AUF1]] · [[RT DE|RT DE]] · [[PI-News|PI-News]] · [[AFD/Rechtsradikal/Verfassungsschutz|Verfassungsschutz]] · [[AFD/Volksverräter/Voice of Europe|Voice of Europe]] · [[AFD/Personen/Björn Höcke|Björn Höcke]]

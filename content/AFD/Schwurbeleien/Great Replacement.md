@@ -17,7 +17,8 @@ Die Behauptung, es gäbe eine gezielte Verdrängung der europäischen Bevölkeru
 
 Die Angstmacherei vor einer baldigen Machtübernahme durch eine geschlossene islamistische Partei ignoriert sowohl die politische Realität als auch das deutsche Verfassungsrecht:
 
-* **Kein monolithischer Block:** Muslime wählen keineswegs einheitlich. Studien (wie vom Sachverständigenrat für Integration und Migration oder dem Religionsmonitor) zeigen, dass Menschen mit muslimischem Hintergrund in Deutschland quer durch das demokratische Parteienspektrum (SPD, Grüne, CDU, Linke usw.) wählen oder sich politisch gar nicht primär über ihre Religion definieren.
+* **Kein monolithischer Block:** Muslime wählen keineswegs einheitlich. Der Sachverständigenrat für Integration und Migration (SVR) zeigt in seiner Auswertung „Schwarz, rot, grün – Welche Parteien bevorzugen Zuwanderer?“ (SVR-Integrationsbarometer), dass Menschen mit Migrationshintergrund quer durch das demokratische Parteienspektrum wählen (darunter CDU/CSU, SPD, Grüne, Linke) und sich ihre Präferenzen je nach Herkunftsgruppe und Zeit deutlich unterscheiden. Das Bild einer geschlossenen, einheitlich „islamistisch“ stimmenden Wählerschaft entbehrt damit der empirischen Grundlage.
+* **Integration als Beleg gegen das Feindbild (einordnend):** Gegen die Unterstellung, Muslime seien systematisch „verkapselt“ und integrationsunwillig, sprechen zudem die Befunde des Religionsmonitors der Bertelsmann-Stiftung: Die repräsentative Erhebung „Muslime in Europa“ (2017) zeigt deutliche Integrationsfortschritte – etwa dass 96 Prozent der befragten Muslime in Deutschland angaben, sich mit dem Land verbunden zu fühlen.
 * **Die wehrhafte Demokratie (Art. 21 GG):** Das Grundgesetz schützt die freiheitlich-demokratische Grundordnung rigoros. Parteien, die die Verfassung beseitigen oder eine Theokratie errichten wollen, sind verfassungswidrig. Das Bundesverfassungsgericht hat hierbei klare Kompetenzen für Parteienverbote, wie die Geschichte der Bundesrepublik zeigt.
 
 ## 4. Fazit und politische Funktion
@@ -28,5 +29,8 @@ Das Narrativ verknüpft reale integrationspolitische Herausforderungen mit absur
 
 * Bundeszentrale für politische Bildung (bpb): [Die Erzählung vom „großen Austausch“](https://www.bpb.de/themen/rechtsextremismus/dossier-rechtsextremismus/549525/die-erzaehlung-vom-grossen-austausch/)
 * Bundesamt für Verfassungsschutz (BfV): [Islamismus und islamistischer Terrorismus](https://www.verfassungsschutz.de/DE/verfassungsschutz/der-bericht/vsb-islamismus-und-islamistischer-terrorismus/vsb-islamismus-und-islamistischer-terrorismus_node.html)
+* Sachverständigenrat für Integration und Migration (SVR): [Schwarz, rot, grün – Welche Parteien bevorzugen Zuwanderer? (Policy Brief 2016)](https://www.svr-migration.de/publikation/parteipraeferenzen/) – empirische Grundlage zu Parteipräferenzen von Menschen mit Migrationshintergrund
+* SVR: [CDU und CSU erstmals die beliebtesten Parteien bei Zuwanderern (Pressemitteilung, 2018)](https://www.svr-migration.de/presse/parteipraeferenzen2018) – zeigt Streuung quer durch das Parteienspektrum
+* Bertelsmann Stiftung: [Religionsmonitor 2017 – „Muslime in Europa“](https://www.bertelsmann-stiftung.de/de/publikationen/publikation/did/muslime-in-europa) – repräsentative Erhebung zu Integration/Religiosität (einordnender Beleg gegen das „Verkapselungs“-Feindbild)
 
 Verwandte Artikel: [[AFD/Rechtsradikal/Verfassungsschutz|Verfassungsschutz]] · [[AFD/Rechtsradikal/Potsdam Treffen|Potsdam Treffen]] · [[AFD/Personen/Björn Höcke|Björn Höcke]]
