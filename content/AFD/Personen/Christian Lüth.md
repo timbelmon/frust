@@ -14,7 +14,7 @@ Nach Recherchen des Stern soll seine Abschlussnote nicht der Note 2 entsprochen 
 
 Lüth leitete das Büro der FDP-nahen **Friedrich-Naumann-Stiftung** in Tegucigalpa, Honduras. Als das Militär am 28. Juni 2009 den demokratisch gewählten Präsidenten Manuel Zelaya gewaltsam ins Ausland verschleppte, bezeichnete Lüth den Staatsstreich als „verfassungskonformes Amtsenthebungsverfahren" – als „Legende", die Verfassungsrechtliches wiederherstellen würde.
 
-In einem Gastbeitrag für die Welt schrieb er: „Dieser ‚Militärputsch' wurde von rechtmäßig gewählten Volksvertretern angeordnet." Damit stellte er sich gegen die Einschätzungen der Vereinten Nationen, der Organisation Amerikanischer Staaten, der EU und selbst der US-Botschaft. Die Stiftung lud später eine Delegation von Putschisten nach Deutschland ein, die auch im Bundestag auftrat.
+In einem Gastbeitrag für die Welt schrieb er: „Der angebliche Putsch wurde von den gewählten Volksvertretern beschlossen und diente der Wahrung der Landesverfassung." Damit stellte er sich gegen die Einschätzungen der Vereinten Nationen, der Organisation Amerikanischer Staaten, der EU und selbst der US-Botschaft. Die Stiftung lud später eine Delegation von Putschisten nach Deutschland ein, die auch im Bundestag auftrat.
 
 Erst im November 2009 räumte Lüth gegenüber der taz ein, dass der Sturz Zelayas ein Verfassungsbruch war – rechtfertigte ihn aber mit Zelayas eigenem Verhalten.
 
@@ -28,7 +28,7 @@ Ab 2012 arbeitete er als Büroleiter und Fachreferent für den FDP-Bundestagsabg
 
 Im November 2013, kurz nach der AfD-Gründung, wechselte Lüth als „Koordinator für Pressearbeit" zur Partei. Ab März 2014 war er Pressesprecher der Bundespartei. Er überstand sämtliche Machtkämpfe der Parteigeschichte – Bernd Lucke, Frauke Petry, Jörg Meuthen, Alexander Gauland.
 
-Schon früh gab es Warnungen. Frauke Petry erklärte später: „Seit spätestens 2016 ist dem AfD-Bundesvorstand bekannt, dass der damalige Pressesprecher Christian Lüth den Hitlergruß zeigte." Konkret soll Lüth 2016 in einer Berliner Bar mit angewinkelter rechter Hand den Hitlergruß imitiert haben. Ein Politikberater versicherte seinen Bericht eidesstattlich. Petry meldete die Vorwürfe an den Bundesparteitag – gehandelt wurde nicht. Lüth bestritt die Vorwürfe als Teil einer „Verleumdungskampagne" Petrys.
+Schon früh gab es Warnungen. Frauke Petry erklärte später: „Seit spätestens 2016 ist dem AfD-Bundesvorstand bekannt, dass der damalige Pressesprecher Christian Lüth den Hitlergruß zeigte." Konkret soll Lüth 2016 in einer Berliner Bar mit angewinkelter rechter Hand den Hitlergruß imitiert haben. Ein Politikberater versicherte seinen Bericht eidesstattlich. Petry meldete die Vorwürfe an den Bundeskonvent – gehandelt wurde nicht. Lüth bestritt die Vorwürfe als Teil einer „Verleumdungskampagne" Petrys.
 
 ## 5. Pressesprecher der Bundestagsfraktion und der „Faschist"-Chat
 
@@ -52,7 +52,7 @@ Lüth behauptete, diese Strategie habe er „lange besprochen" – mit Gauland. 
 
 ## 7. Die fristlose Kündigung im September 2020
 
-Am 28. September 2020, dem Ausstrahlungstag, beschloss der AfD-Fraktionsvorstand **einstimmig** die sofortige fristlose Kündigung. Der Fraktionschef Gauland verkündete die Entscheidung und informierte Lüth persönlich. Ein von 34 Abgeordneten unterstützter Eilantrag forderte die sofortige Beendigung des Arbeitsverhältnisses.
+Am 28. September 2020, dem Ausstrahlungstag, beschloss der AfD-Fraktionsvorstand **einstimmig** die sofortige fristlose Kündigung. Der Fraktionschef Gauland verkündete die Entscheidung und informierte Lüth persönlich. Ein Eilantrag von Abgeordneten forderte die sofortige Beendigung des Arbeitsverhältnisses.
 
 Gauland: „Die Herrn Lüth zugeschriebenen Äußerungen sind völlig inakzeptabel und in keiner Weise mit den Zielen und der Politik der AfD und der AfD-Fraktion vereinbar."
 
@@ -68,7 +68,7 @@ Trotz dieser Kenntnisse wurde Lüth im September nicht entlassen – aus der Fra
 
 Im August 2020 stand Lüth vor dem Amtsgericht Tiergarten: Er soll einer Radfahrerin am Zebrastreifen ins Gesicht geschlagen haben. Das Verfahren wurde gegen eine Geldauflage von 1.500 Euro eingestellt; Lüth bestritt den gezielten Schlag.
 
-Zudem berichtete die Welt am Sonntag über eine Strafanzeige wegen schwerer körperlicher Angriffe auf eine junge Frau, auch mit Vorwürfen sexueller Übergriffe. Die Berliner Staatsanwaltschaft bestätigte Ermittlungen; sie wurden später eingestellt. Auch eine mutmaßliche Trunkenheitsfahrt wurde geprüft.
+Zudem berichtete die Welt am Sonntag über eine Strafanzeige wegen schwerer körperlicher Angriffe auf eine junge Frau. Die Berliner Staatsanwaltschaft bestätigte Ermittlungen; sie wurden später eingestellt. Auch eine mutmaßliche Trunkenheitsfahrt wurde geprüft.
 
 ## 10. Die Rückkehr: Gottschalk, Schmidt, Mixl
 
@@ -86,7 +86,7 @@ Der Fall Lüth zeigt ein Muster:
 * **Langjährige Kenntnis:** Die Spitze wusste seit 2016 vom Hitlergruß-Vorwurf und ab 2020 von den Bar-Aufnahmen – gekündigt wurde erst, als es öffentlich nicht mehr zu ignorieren war.
 * **Wiederbeschäftigung im Hintergrund:** Innerhalb von vier Jahren holten mehrere AfD-Abgeordnete einen Mann zurück, der öffentlich von „vergasen" gesprochen hatte. Der Bundestag schützt Personalentscheidungen von Abgeordneten (Art. 38 GG).
 
-Als die Fraktion im März 2026 Jan Wenzel Schmidt – mittlerweile fraktionslos – wegen Vetternwirtschaft aus der Fraktion ausschloss, blieb offen, ob Lüth weiterhin beschäftigt ist. Schmidt antwortete auf Abgeordnetenwatch nicht zu Personalfragen.
+Als die Fraktion im März 2026 Jan Wenzel Schmidt – mittlerweile fraktionslos – wegen Vetternwirtschaft aus der Fraktion ausschloss, blieb offen, ob Lüth weiterhin beschäftigt ist. Auf Abgeordnetenwatch verweigerte Schmidt jede Auskunft zu Personalfragen.
 
 Der Mann, der den Putsch in Honduras verteidigte und in der AfD von „vergasen" sprach, sitzt weiter mitten im parlamentarischen Betrieb.
 

@@ -22,7 +22,7 @@ Das **Bundesamt für Verfassungsschutz** urteilte in seinem AfD-Gutachten vom 15
 
 ## 3. Das „Denkmal der Schande" (2017)
 
-Am 17. Januar 2017 sagte Höcke in Dresden über das Berliner Holocaust-Mahnmal: „Wir Deutschen sind das einzige Volk der Welt, das sich ein Denkmal der Schande in das Herz seiner Hauptstadt gepflanzt hat." Er forderte eine „erinnerungspolitische Wende um 180 Grad" und nannte das Holocaust-Gedenken „lähmend und dämlich". Die Gedenkstätte Buchenwald lud ihn daraufhin von einer Gedenkveranstaltung des Landtags aus. Innerhalb der AfD führte der Eklat zu einem gescheiterten Parteiausschlussverfahren.
+Am 17. Januar 2017 sagte Höcke in Dresden über das Berliner Holocaust-Mahnmal: „Wir Deutschen, also unser Volk, sind das einzige Volk der Welt, das sich ein Denkmal der Schande in das Herz seiner Hauptstadt gepflanzt hat." Er forderte eine „erinnerungspolitische Wende um 180 Grad" und nannte das Holocaust-Gedenken „lähmend und dämlich". Die Gedenkstätte Buchenwald lud ihn daraufhin von einer Gedenkveranstaltung des Landtags aus. Innerhalb der AfD führte der Eklat zu einem gescheiterten Parteiausschlussverfahren.
 
 ## 4. NS-Relativierung im „Wall Street Journal" (2017)
 
@@ -40,19 +40,19 @@ Die Entwicklung der Einstufung ist dokumentiert:
 * **2. Mai 2025:** Das BfV stuft die gesamte Bundes-AfD als **„gesichert rechtsextremistische Bestrebung"** ein. Begründung: Das „ethnisch-abstammungsmäßige Volksverständnis" sei „nicht mit der freiheitlichen demokratischen Grundordnung vereinbar". Das Gutachten stützt sich fast ausschließlich auf öffentliche Äußerungen, darunter Höckes Reden.
 * **Februar 2026:** Das Verwaltungsgericht Köln setzt im Eilverfahren die Hochstufung vorläufig aus; die Partei darf vorerst als Verdachtsfall geführt werden. Ein Hauptsacheverfahren steht aus.
 
-Nach der Hochstufung drohte Höcke den Verfassungsschutz-Mitarbeitern auf X: „Man kann den Angestellten des VS nur dringend raten, sich eine neue Arbeit zu suchen. Am Ende wird es wie immer in der Geschichte heißen: Mitgehangen – mitgefangen." Der Beitrag wurde gelöscht; die Gewerkschaft der Polizei nannte die Aussage „widerlich".
+Nach der Hochstufung drohte Höcke den Verfassungsschutz-Mitarbeitern auf X: „Man kann den Angestellten des Verfassungsschutzes nur dringend raten, sich eine neue Arbeit zu suchen. Am Ende wird es wie immer in der Geschichte heißen: Mitgehangen – mitgefangen." Der Beitrag wurde gelöscht; die Gewerkschaft der Polizei nannte die Aussage „widerlich".
 
 ## 6. Das erste Strafverfahren: „Alles für Deutschland" (Merseburg)
 
-Am 23. Mai 2021 rief Höcke bei einer Wahlkampfveranstaltung in Merseburg (Sachsen-Anhalt): „Alles für unsere Heimat, alles für Sachsen-Anhalt, **alles für Deutschland**." Die Formel ist eine verbotene Losung der SA (§ 86a StGB). Nach Aufhebung seiner Immunität wurde Anklage erhoben; ab Mai 2024 verhandelte das Landgericht Halle (Az. 5 KLs 6/23).
+Am 29. Mai 2021 rief Höcke bei einer Wahlkampfveranstaltung in Merseburg (Sachsen-Anhalt): „Alles für unsere Heimat, alles für Sachsen-Anhalt, **alles für Deutschland**." Die Formel ist eine verbotene Losung der SA (§ 86a StGB). Nach Aufhebung seiner Immunität wurde Anklage erhoben; ab Mai 2024 verhandelte das Landgericht Halle (Az. 5 KLs 6/23).
 
 **Urteil am 14. Mai 2024: 100 Tagessätze zu je 130 Euro = 13.000 Euro Geldstrafe.** Der Vorsitzende Richter stellte fest, Höcke sei „ein redegewandter, intelligenter Mann, der weiß, was er sagt"; die Entscheidung sei gefallen „nach dem Motto: Mal gucken, wie weit ich gehen kann."
 
 ## 7. Das zweite Strafverfahren: Gera (2023) und die Rechtskraft
 
-Am 11. Dezember 2023 animierte Höcke bei einem AfD-Stammtisch in Gera das Publikum per Geste, den Ruf „Alles für Deutschland" zu vervollständigen – während gegen ihn wegen Merseburg bereits ermittelt wurde. Das Landgericht Halle (Az. 5 KLs 8/24) verurteilte ihn im Juli 2024 zu **130 Tagessätzen zu je 130 Euro = 16.900 Euro Geldstrafe**.
+Am 12. Dezember 2023 animierte Höcke bei einem AfD-Stammtisch in Gera das Publikum per Geste, den Ruf „Alles für Deutschland" zu vervollständigen – während gegen ihn wegen Merseburg bereits ermittelt wurde. Das Landgericht Halle (Az. 5 KLs 8/24) verurteilte ihn im Juli 2024 zu **130 Tagessätzen zu je 130 Euro = 16.900 Euro Geldstrafe**.
 
-Beide Urteile focht Höcke an. Der Bundesgerichtshof verwarf die Revisionen am 11. September 2025 **(Az. 3 StR 484/24 und 3 StR 519/24)**: Beide Verurteilungen sind **rechtskräftig**. Der BGH hielt fest, dass § 86a StGB die Meinungsfreiheit zulässig einschränke und die Immunität als Abgeordneter nicht greife.
+Beide Urteile focht Höcke an. Der Bundesgerichtshof verwarf die Revisionen am 11. September 2025 **(Az. 3 StR 484/24 und 3 StR 519/24)**: Beide Verurteilungen sind **rechtskräftig**. Der BGH hielt fest, dass § 86a StGB die Meinungsfreiheit zulässig einschränke und die Indemnität als Abgeordneter nicht greife.
 
 ## 8. Weitere Verfahren
 
@@ -79,14 +79,14 @@ Im Juni 2026 interviewte ihn der Schweizer Publizist Roger Köppel in dessen rec
 
 Und weiter, als englische These, die er „irgendwo gelesen" habe: In der westlichen Republik wohnten „deutsch sprechende Amerikaner", im Osten „deutsch sprechende Deutsche". Der Amerikanismus sei eine Antithese zum Deutschtum.
 
-Damit sprach der selbst in Westfalen geborene Höcke einem Großteil der deutschen Bevölkerung das Deutschsein ab – Kritiker werteten das als völkisch-nationalistische Ausgrenzung auf ethnischer Basis. Auffällig ist die Herkunft der These: Die Formulierung „In Ostdeutschland leben Deutsche, in Westdeutschland aber mehrheitlich deutschsprachige Amerikaner" stammt nach Recherchen von Tagesspiegel und ZDF von **Margarita Simonjan**, der Chefredakteurin des russischen Staatssenders RT (Russia Today, 2023).
+Damit sprach der selbst in Westfalen geborene Höcke einem Großteil der deutschen Bevölkerung das Deutschsein ab – Kritiker werteten das als völkisch-nationalistische Ausgrenzung auf ethnischer Basis. Auffällig ist die Herkunft der These: Die Formulierung „In Ostdeutschland leben Deutsche, in Westdeutschland aber mehrheitlich deutschsprachige Amerikaner" stammt nach Recherchen des Tagesspiegels von **Margarita Simonjan**, der Chefredakteurin des russischen Staatssenders RT (Russia Today, 2023).
 
 Selbst in der eigenen Partei stieß die Aussage auf Widerspruch. Der AfD-Verteidigungspolitiker Rüdiger Lucassen nannte sie „absolut falsch und töricht" und „SED-Sprech". Co-Chef Tino Chrupalla konterte trocken: „Wahrscheinlich meint er sich ja selbst damit." Weidel verwies darauf, dass Höcke selbst Westdeutscher ist.
 
 ## 12. Aktuelle Eskalation: „nichts zu verteidigen" und Holocaust-Formulierung
 
-* **Dezember 2025:** Im Bundestag erklärte Höcke, für Deutschland gebe es **„nichts zu verteidigen"**, und lehnte die Wehrpflicht ab. Der Thüringer Verfassungsschutzpräsident sah darin „Verachtung für die demokratische Grundordnung"; die AfD enthielt sich beim Wehrdienstgesetz.
-* **Juni 2026:** Höcke äußerte, der Holocaust sei **„nicht im Namen der Deutschen"** geschehen – eine Forderung, die von Kritikern als neue Stufe der Geschichtsklitterung eingeordnet wurde.
+* **Dezember 2025:** Im Thüringer Landtag erklärte Höcke laut FAZ, für Deutschland gebe es **„nichts zu verteidigen"**, und lehnte die Wehrpflicht ab. Der Thüringer Verfassungsschutzpräsident sah darin „Verachtung für die demokratische Grundordnung"; im Bundestag stimmte die AfD-Fraktion gegen das Wehrdienstgesetz.
+* **Juni 2026:** Höcke äußerte, der Holocaust sei **„nicht im deutschen Namen"** passiert – eine Aussage, die von Kritikern als neue Stufe der Geschichtsklitterung eingeordnet wurde.
 * **August 2026:** Höcke bot Sahra Wagenknecht an, sich mit AfD-Stimmen zur Thüringer Ministerpräsidentin wählen zu lassen. Diese lehnte ab: „Das Amt des Thüringer Ministerpräsidenten ist kein Wanderpokal."
 
 ## Quellen & Verweise
@@ -118,5 +118,8 @@ Selbst in der eigenen Partei stieß die Aussage auf Widerspruch. Der AfD-Verteid
 * Tagesspiegel: [Höcke bezeichnet Westdeutsche als „deutsch sprechende Amerikaner" (08.06.2026)](https://www.tagesspiegel.de/politik/krude-thesen-in-neuem-podcast-interview-hocke-bezeichnet-westdeutsche-als-deutsch-sprechende-amerikaner-15694042.html)
 * ZEIT: [Irritierte AfD-Spitze über Höckes Westdeutschen-Aussagen (10.06.2026)](https://www.zeit.de/politik/deutschland/2026-06/bjoern-hoecke-afd-westdeutsche-ostdeutschland-unterschiede)
 * ZDFheute: [Höckes „Deutschtum"-Aussagen (09.06.2026)](https://www.zdfheute.de/politik/deutschland/hoecke-afd-ost-west-deutsche-amerika-diskussion-100.html)
+* FAZ: [Höckes Kampagne gegen die Wehrpflicht (05.12.2025)](https://www.faz.net/aktuell/politik/inland/hoeckes-kampagne-gegen-die-wehrpflicht-110797237.html)
+* Deutscher Bundestag: [Bundestag entscheidet über Wehrdienstgesetz (05.12.2025)](https://www.bundestag.de/dokumente/textarchiv/2025/kw49-de-wehrdienst-1128220)
+* Morgenpost: [Höcke spricht „deutsches Volk" von Schuld frei (17.06.2026)](https://www.morgenpost.de/politik/article412296306/hoecke-und-der-holocaust-die-afd-will-die-erinnerungskultur-beschaedigen.html)
 
 Verwandte Artikel: [[AFD/Rechtsradikal/Verfassungsschutz|Verfassungsschutz]] · [[AFD/Rechtsradikal/Potsdam Treffen|Potsdam Treffen]] · [[AFD/Personen/Christian Lüth|Christian Lüth]] · [[AFD/Personen/Alice Weidel|Alice Weidel]] · [[AFD/Personen/Andreas Kalbitz|Andreas Kalbitz]]

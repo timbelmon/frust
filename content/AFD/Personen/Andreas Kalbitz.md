@@ -6,7 +6,7 @@ Andreas Kalbitz war bis 2020 einer der mächtigsten AfD-Politiker im Osten: Land
 
 ## 1. Der Weg in die rechtsextreme Szene (1993–2007)
 
-Kalbitz, geboren 1972 in München, startete politisch bei der CSU/JU. Anfang 1993 wechselte er zu den von damaligen Verfassungsschutz beobachteten **Republikanern (REP)** – eine Mitgliedschaft, die er später vor der AfD verschwieg. Diese **REP-Mitgliedschaft wurde vor Gericht als Fakt anerkannt**.
+Kalbitz, geboren 1972 in München, startete politisch bei der CSU/JU. Anfang 1993 wechselte er zu den vom damaligen Verfassungsschutz beobachteten **Republikanern (REP)** – eine Mitgliedschaft, die er später vor der AfD verschwieg. Diese **REP-Mitgliedschaft wurde vor Gericht als Fakt anerkannt**.
 
 Darüber hinaus dokumentierte der Verfassungsschutz:
 * **Sommerlager 1993:** Teilnahme an einem Lager der „Heimattreuen Jugend", eines Vorgängers der später verbotenen HDJ.
@@ -34,7 +34,7 @@ Im Landtags-Lebenslauf gab Kalbitz ein „Studium der Informatik an der FH Brand
 * **15. Mai 2020:** Der AfD-Bundesvorstand (unter Co-Chef Jörg Meuthen) erklärt Kalbitz' Mitgliedschaft für **nichtig** – mit 7:5 Stimmen. Begründung: Beim Eintritt 2013 habe er seine Mitgliedschaft bei den Republikanern und der HDJ **nicht angegeben** („arglistige Täuschung"). Der Aufnahmeantrag von 2013 war „verschollen".
 * **19. Juni 2020:** Das Landgericht Berlin setzt den Rauswurf prozedural **vorläufig aus** – nur das Parteischiedsgericht sei zuständig. Kein inhaltliches Urteil.
 * **25. Juli 2020:** Das **AfD-Bundesschiedsgericht** bestätigt die Annullierung.
-* **22. Januar 2021:** Das **Kammergericht Berlin** (Az. 7 U 1081/20) weist die Berufung zurück und bestätigt den Ausschluss: Die Entscheidung sei „weder evident unrechtlich noch missbräuchlich", sondern „in jeder Hinsicht nachvollziehbar".
+* **22. Januar 2021:** Das **Kammergericht Berlin** (Az. 7 U 1081/20) weist die Berufung zurück und bestätigt den Ausschluss: Die Entscheidung sei „weder evident rechtswidrig noch missbräuchlich".
 * **22. April 2022:** Das Landgericht Berlin weist die Klage in der Hauptsache ab – Kalbitz sei „wegen arglistiger Täuschung" nie wirksam AfD-Mitglied geworden.
 
 ## 6. Ermittlungen wegen falscher eidesstattlicher Versicherung
@@ -43,7 +43,7 @@ Die Staatsanwaltschaft Berlin ermittelte ab 2020 gegen Kalbitz wegen des Verdach
 
 ## 7. Die „Milzriss-Affäre" 2020
 
-Im August 2020 trat Kalbitz als Fraktionsvorsitzender zurück. Die Potsdamer Staatsanwaltschaft ermittelte wegen des Verdachts der fahrlässigen Körperverletzung, weil er seinem Stellvertreter bei einer Begrüßung in den Bauch geschlagen haben soll – der Kollege erlitt einen Milzriss. Die Ermittlungen wurden 2021 nach Zahlung einer vierstelligen Summe eingestellt.
+Im August 2020 trat Kalbitz als Fraktionsvorsitzender zurück. Die Potsdamer Staatsanwaltschaft ermittelte wegen des Verdachts der fahrlässigen Körperverletzung, weil er seinem parlamentarischen Geschäftsführer bei einer Begrüßung in den Bauch geschlagen haben soll – der Kollege erlitt einen Milzriss. Die Ermittlungen wurden 2021 nach Zahlung einer vierstelligen Summe eingestellt.
 
 ## 8. Verfassungsschutz-Einstufung und das Ende
 

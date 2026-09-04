@@ -19,7 +19,7 @@ Gründer, Geschäftsführer und Chefredakteur ist **Jürgen Elsässer** – der 
 ### 2. Welche Narrative werden gepushed?
 
 * **Kreml-Propaganda:** Compact steht seit der Krim-Annexion 2014 uneingeschränkt an der Seite Putins, übernimmt russische Talking Points und verbreitet Posts der russischen Botschaft auf Telegram.
-* **Verschwörungserzählungen:** Compacts bietet eine ganze Artikelkategorie zum „Great Reset“; unter „Klima-Terroristen“ wird der menschengemachte Klimawandel geleugnet und der Hass auf Windräder und Verbrenner-Lob bedient.
+* **Verschwörungserzählungen:** Compact bietet eine ganze Artikelkategorie zum „Great Reset“; unter „Klima-Terroristen“ wird der menschengemachte Klimawandel geleugnet, Loblieder auf Verbrenner gesungen und der Hass auf Windräder bedient.
 * **Geschichtsrevisionismus:** Das Magazin relativiert und normalisiert rechtsextreme Geschichtsbilder.
 * **„Regime-Sturz“-Fantasien:** Autoren fantasierten mehrfach vom „Sturz des Regimes“ – gemeint war jeweils die demokratisch gewählte Bundesregierung.
 * **Querfront-Rhetorik:** Elsässer versucht, das Blatt als Angebot zu vermarkten, das Rechte ebenso wie Linke (u.a. BSW-Klientel) ansprechen soll.
@@ -29,8 +29,8 @@ Gründer, Geschäftsführer und Chefredakteur ist **Jürgen Elsässer** – der 
 ### 3. Warum ist Compact problematisch?
 
 * **Verfassungsschutz-Einstufung:** Bereits 2021 als gesichert rechtsextremistisch eingestuft – das ist die höchste Verdachtskategorie.
-* **Normalisierungsfunktion:** Kompakt wirkt als publizistisches Scharnier, das rechtsextreme Positionen, Akteure wie Götz Kubitschek und die „Identitäre Bewegung“ sowie Kreml-Narrative für ein breiteres Publikum anschlussfähig macht.
-* **Nähe zur AfD:** Unterstützung durch Interviews, freundliche Berichterstattung und Veranstaltungen. Unter dem Slogan „Die blaue Welle rollt“ sammelte das Magazin ab 2023 Spenden, um „der AfD unter die Arme zu greifen“ – daraufhin ein Bußgeldverfahren der Bundestagsverwaltung.
+* **Normalisierungsfunktion:** Compact wirkt als publizistisches Scharnier, das rechtsextreme Positionen, Akteure wie Götz Kubitschek und die „Identitäre Bewegung“ sowie Kreml-Narrative für ein breiteres Publikum anschlussfähig macht.
+* **Nähe zur AfD:** Unterstützung durch Interviews, freundliche Berichterstattung und Veranstaltungen. Unter dem Slogan „Die blaue Welle rollt“ sammelte das Magazin ab 2023 Spenden, „damit wir der AfD unter die Arme greifen können“ – daraufhin ein Bußgeldverfahren der Bundestagsverwaltung.
 * **Verbindungen ins Neonazi-Umfeld:** u.a. ein früherer Pressesprecher der NPD-Landtagsfraktion Sachsen als Chef vom Dienst sowie ein früherer NPD-Landtagsabgeordneter.
 * **Das gescheiterte Verbot:** Das Bundesinnenministerium erließ 2024 unter Nancy Faeser ein Verbot gegen Magazin und Produktionsfirma. Das Bundesverwaltungsgericht hob es im Juni 2025 jedoch wieder auf. Der Fall zeigt, wie sich das Blatt juristisch erfolgreich gegen vereinsrechtliche Maßnahmen wehren konnte.
 

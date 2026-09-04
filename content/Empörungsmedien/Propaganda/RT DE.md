@@ -1,12 +1,12 @@
 ## Der deutschsprachige Arm von Putins Staatspropaganda
 
-**RT DE** (früher *RT Deutsch*) ist der deutschsprachige Ableger des russischen Auslandsstaatssenders *RT*, der 2005 als *Russia Today* an den Start ging. Der Start fiel Ende 2014 – nur wenige Monate nach Russlands völkerrechtswidriger Annexion der Krim. RT DE ist ein Staatssender im doppelten Sinn: Er wird vom russischen Staat finanziert **und** dient als ideologisches Sprachrohr der Regierung. Die Russland-Expertin Susanne Spahn fasst die Berichterstattung so zusammen: „Der Schwerpunkt der Berichterstattung liegt auf der behaupteten Dysfunktionalität Deutschlands und der westlichen Demokratien.“
+**RT DE** (früher *RT Deutsch*) ist der deutschsprachige Ableger des russischen Auslandsstaatssenders *RT*, der 2005 als *Russia Today* an den Start ging. Der Start fiel Ende 2014 – nur wenige Monate nach Russlands völkerrechtswidriger Annexion der Krim. RT DE ist ein Staatssender im doppelten Sinn: Er wird vom russischen Staat finanziert **und** dient als ideologisches Sprachrohr der Regierung. Die Russland-Expertin Susanne Spahn fasst die Berichterstattung so zusammen: „Der Schwerpunkt der Berichterstattung liegt dabei auf der behaupteten Dysfunktionalität Deutschlands und der westlichen Demokratien.“
 
 ---
 
 ### 1. Wer steckt hinter RT DE?
 
-Herausgeber ist das staatliche russische Medienunternehmen **Rossija Sewodnja**, geleitet von **Margarita Simonjan**, die auch *Sputnik* (in Deutschland als *SNA*) und RIA Novosti verantwortet. Simonjan gilt als eine der wichtigsten Propagandistinnen Putins, wurde 2022 mehrfach sanktioniert und jubelt offen: „Jetzt ist er unser Führer. Und wir werden nicht zulassen, dass er ersetzt wird.“
+Herausgeber ist das staatliche russische Medienunternehmen **Rossija Sewodnja**, geleitet von **Margarita Simonjan**, die auch *Sputnik* (in Deutschland als *SNA*) und RIA Novosti verantwortet. Simonjan gilt als eine der wichtigsten Propagandistinnen Putins und wurde 2022 mehrfach sanktioniert. Schon 2018, nach Putins Wiederwahl, jubelte sie offen: „Jetzt ist er unser Führer. Und wir werden nicht zulassen, dass er ersetzt wird.“
 
 Zu den prägenden Gesichtern gehören:
 

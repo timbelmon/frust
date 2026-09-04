@@ -1,5 +1,3 @@
-# Verfassungsrechtlicher Kontext und Verfassungsschutz-Einstufung
-
 ## 1. Das Gutachten des Bundesamtes für Verfassungsschutz (BfV)
 * **Einstufung 2025:** Das BfV stufte die Gesamtpartei AfD am 2. Mai 2025 offiziell als „gesichert rechtsextremistische Bestrebung“ ein – nach dreijähriger Prüfung, die in ein mehr als 1.000 Seiten umfassendes Gutachten floss. (Belege: BfV, Tagesschau, ZDF)
 * **Kernbegründung:** Das Amt stützte diesen Schritt auf das Gutachten. Im Zentrum stehen:
@@ -20,7 +18,7 @@
 ## Quellen & Verweise
 * ZDF: [AfD-Gutachten des Verfassungsschutzes](https://www.zdfheute.de/politik/deutschland/afd-verfassungsschutz-gutachten-rechtsextremistisch-100.html)
 * ZDF: [Gericht: AfD nicht gesichert rechtsextrem – vorerst (26.02.2026)](https://www.zdfheute.de/politik/deutschland/afd-gericht-einstufung-rechtsextrem-100.html) – Zweitbeleg für VG-Beschluss
-* Verwaltungsgericht Köln: [Beschluss vom 26.02.2026 (Az.: 13 L 1109/25)](https://recht.nulegal.eu/rechtsprechung/vg-koeln/2026-02-26/13-1-1109-25) – Primärquelle zum Eilbeschluss
+* Verwaltungsgericht Köln: [Beschluss vom 26.02.2026 (Az.: 13 L 1109/25)](https://nrwe.justiz.nrw.de/ovgs/vg_koeln/j2026/13_L_1109_25_Beschluss_20260226.html) – Primärquelle zum Eilbeschluss
 * Tagesschau: [AfD darf vorerst nicht als „gesichert rechtsextremistisch“ eingestuft werden (26.02.2026)](https://www.tagesschau.de/inland/innenpolitik/afd-einstufung-entscheidung-100.html) – unabhängiger Zweitbeleg
 * Tagesschau: [Verfassungsschutz setzt AfD-Einstufung vorerst aus (08.05.2025)](https://www.tagesschau.de/inland/innenpolitik/afd-verfassungsschutz-rechtsextrem-100.html) – unabhängiger Zweitbeleg für Einstufung + Stillhaltezusage
 * Tagesschau: [OVG: AfD rechtmäßig als rechtsextremistischer Verdachtsfall eingestuft (13.05.2024)](https://www.tagesschau.de/inland/innenpolitik/afd-ovg-verdachtsfall-100.html) – Zweitbeleg für OVG Münster

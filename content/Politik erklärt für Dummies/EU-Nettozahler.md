@@ -25,6 +25,5 @@ Der Nettozahler-Begriff blendet viele Vorteile aus, die nicht im EU-Haushalt auf
 
 * Bundeszentrale für politische Bildung (bpb): [Nettozahler und Nettoempfänger in der EU](https://www.bpb.de/kurz-knapp/zahlen-und-fakten/europa/70580/nettozahler-und-nettoempfaenger-in-der-eu/)
 * Tagesschau: [Ist die EU ein Verlustgeschäft für Deutschland?](https://www.tagesschau.de/europawahl/eu/finanzen-106.html)
-* Die Zeit: [Hessen stellt UN-Beiträge Deutschlands infrage](https://www.zeit.de/politik/ausland/2026-06/un-sicherheitsrat-beitraege-deutschland-hessen)
 
 Verwandte Artikel: [[Politik erklärt für Dummies/UN-Beiträge|UN-Beiträge]] · [[Politik erklärt für Dummies/Soft Power|Soft Power]]

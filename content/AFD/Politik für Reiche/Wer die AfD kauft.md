@@ -1,4 +1,4 @@
-# Wer die AfD kauft – und was er dafür bekommt
+# Die AfD und ihre Geldgeber
 
 Die AfD verkauft sich als Partei des „kleinen Mannes". Ein Blick in das Steuerprogramm und auf die Geldgeber zeigt das Gegenteil: Hier bezahlen wohlhabende Spinner, damit ihre Steuern sinken.
 
@@ -13,7 +13,7 @@ Das Bundestagswahlprogramm 2025 liest sich wie ein Bestellkatalog für Einkommen
 * **Vermögenssteuer & Soli:** Sofortige Streichung.
 * **Sparerpauschbetrag:** Deutliche Anhebung – ein Geschenk an Kapitalbesitzer.
 
-Ökonomische Institute wie das DIW Berlin und das IZA Bonn sind sich einig: Den Löwenanteil der Entlastungen kassieren die obersten 10 % der Einkommensbezieher. Die untere Hälfte der Bevölkerung bekommt fast nichts. Die Gegenfinanzierung fehlt. Mehr dazu unter [[AFD/Perspektive & Praxis/Steuerpolitik|Steuerpolitik]].
+Ökonomische Institute wie das DIW Berlin und das IZA Bonn sind sich einig: Am meisten profitieren die obersten zehn Prozent der Einkommensbezieher – am stärksten das reichste eine Prozent. Die untere Hälfte der Bevölkerung wird kaum entlastet. Die Gegenfinanzierung fehlt. Mehr dazu unter [[AFD/Perspektive & Praxis/Steuerpolitik|Steuerpolitik]].
 
 ---
 
@@ -25,9 +25,9 @@ Das Bundestagswahlprogramm 2025 liest sich wie ein Bestellkatalog für Einkommen
 
 Die wichtigsten Geldgeber:
 
-* **Winfried Stöcker** (Medizintechnik, Lübeck): **1,5 Mio. €** – verkaufte Euroimmun für 1,2 Mrd. €, wurde 2014 nach rassistischen Äußerungen aus der Uni Lübeck ausgegliedert.
-* **Henning Conle** (Immobilien-Milliardär, Schweiz): Hinter dem Schein **2,35 Mio. €** über Ex-FPÖ-Funktionär Dingler. Das Verwaltungsgericht erklärte die Spende im Mai 2026 für **illegal** – Strohmann-Construkt. Conle wird verdächtigt, seit 2015 heimlich die AfD finanziert zu haben.
-* **Udo Böttcher** (Böttcher AG, Jena): Gab 2 Mio. € an Dritten, der davon **999.990 €** direkt an die AfD spendete. Forderte das Geld später zurück wegen „großer Undankbarkeit".
+* **Winfried Stöcker** (Medizintechnik, Lübeck): **1,5 Mio. €** – verkaufte Euroimmun für 1,2 Mrd. €, geriet 2014 nach rassistischen Äußerungen in Konflikt mit der Universität Lübeck; den Professorentitel legte er erst im Oktober 2023 selbst ab, nachdem ein Aberkennungsversuch 2018 vor Gericht gescheitert war.
+* **Henning Conle** (Immobilien-Milliardär, Schweiz): Hinter dem Schein **2,35 Mio. €** über Ex-FPÖ-Funktionär Dingler. Das Verwaltungsgericht erklärte die Spende im Mai 2026 für **illegal** – Strohmann-Konstrukt. Conle wird verdächtigt, seit 2015 heimlich die AfD finanziert zu haben.
+* **Udo Böttcher** (Böttcher AG, Jena): Gab 2 Mio. € an Dritten, der davon **999.990 €** direkt an die AfD spendete. Forderte das Geld später wegen „groben Undanks" (§ 530 BGB) zurück.
 * **Hartmut Issmer** (Bauingenieur): **265.050 €** (2023) – Profiteur des ostdeutschen Immobilienbooms.
 
 ### Typisches AfD-Spenderprofil
@@ -40,7 +40,7 @@ Die AfD hat ein systematisches Problem mit illegaler Parteifinanzierung (Transpa
 
 * **2016:** Meuthen erhält 90.000 € über die Schweizer Goal AG.
 * **2017:** Weidel erhält 132.000 € über Schweizer Pharma-Konten.
-* **2016–2018:** Ströer-Wahlkampfkampagnen im Wert von **über 10 Mio. €**.
+* **2016–2018:** Ströer-Wahlkampfkampagnen – dokumentiert sind über 3 Mio. €, LobbyControl schätzt die Gesamtsumme auf rund 10 Mio. €.
 * **2025:** Dingler-Plakatspende (2,35 Mio. €) – Gerichtsurteil: illegal.
 
 ### Russland-Verbindungen
@@ -55,8 +55,8 @@ Das Muster ist klar:
 
 1. **Wohlhabende Spinner** wie Conle, Stöcker und Böttcher wollen ihre Steuerlast senken.
 2. Die AfD bietet **Flat Tax, Abschaffung der Erbschaft- und Vermögenssteuer** – genau das, was diese Spender wollen.
-3. Die Spender finanzieren die AfD **mit Millionenbeträgen**, teilweise über illegale Strohmann-Construkte.
-4. Die AfD bringt die entsprechenden **Anträge im Bundestag ein** (z.B. Drucksache 19/27184).
+3. Die Spender finanzieren die AfD **mit Millionenbeträgen**, teilweise über illegale Strohmann-Konstrukte.
+4. Die AfD bringt die entsprechenden **Anträge im Bundestag ein** (z.B. Drucksache 21/589).
 5. Die **Gegenfinanzierung** fehlt – die Rechnung zahlt am Ende die breite Bevölkerung.
 
 Die AfD ist keine Partei des kleinen Mannes. Sie ist die Steuerberatung der Reichen, finanziert von den Reichen, und bezahlt von allen anderen.
@@ -78,7 +78,7 @@ Die AfD ist keine Partei des kleinen Mannes. Sie ist die Steuerberatung der Reic
 * CORRECTIV: [Gericht erklärt AfD-Millionenspende für unzulässig (07.05.2026)](https://correctiv.org/aktuelles/afd/2026/05/07/gericht-erklaert-afd-millionenspende-vor-bundestagswahl-fuer-unzulaessig/)
 * Transparency International: [Die AfD und die Korruption (28.05.2026)](https://www.transparency.de/aktuelles/detail/article/die-afd-und-die-korruption)
 * Reuters: [Rich, retired, boom beneficiaries who finance Germany's far right (02.04.2024)](https://www.reuters.com/world/europe/rich-retired-boom-beneficiaries-who-finance-germanys-far-right-2024-04-02/)
-* Deutscher Bundestag: [Drucksache 19/27184 – AfD-Antrag 25%-Flat-Tax](https://dserver.bundestag.de/btd/19/271/1927184.pdf)
+* Deutscher Bundestag: [Drucksache 21/589 – AfD-Antrag 25%-Flat-Tax](https://dserver.bundestag.de/btd/21/005/2100589.pdf)
 
 ---
 

@@ -8,11 +8,11 @@ Wer in Wolfsburg, Emden, Zwickau oder Salzgitter am Band steht und sagt: _„Jet
 
 ## 1. „Arbeiterpartei" ist das Etikett, nicht das Programm
 
-Die AfD sagt: „Die SPD ist nicht mehr die Arbeiterpartei, sondern die AfD." Schön gesagt. Der Arbeitssoziologe Klaus Dörre nennt das, was dahintersteckt: „Die AfD steht eigentlich für ein marktradikales Programm." Eine Arbeiterpartei, die das Streikrecht einschränken, die Tarifautonomie aufweichen und Gewerkschaften aus den Betrieben drängen will, wäre kein Interessenvertreter der Beschäftigten – sie würde deren Verhandlungsmacht direkt schwächen.
+Die AfD sagt über die SPD: „Sie ist nicht mehr die Arbeiterpartei, die Partei der Arbeiter und Arbeitnehmer. Sondern das ist die Alternative für Deutschland." Schön gesagt. Der Arbeitssoziologe Klaus Dörre nennt das, was dahintersteckt: „Die AfD steht eigentlich für ein marktradikales Programm." Eine Arbeiterpartei, die das Streikrecht einschränken, die Tarifautonomie aufweichen und Gewerkschaften aus den Betrieben drängen will, wäre kein Interessenvertreter der Beschäftigten – sie würde deren Verhandlungsmacht direkt schwächen.
 
 Schau auf das Abstimmungsverhalten, nicht auf die Parolen:
-* **Mindestlohn 12 € (2022):** AfD stimmt dagegen – „setze den Markt außer Kraft."
-* **Tariftreuegesetz (2025):** AfD stimmt gegen das Gesetz, das öffentliche Aufträge nur an Tariflohn-Firmen vergibt.
+* **Mindestlohn 12 € (2022):** AfD enthält sich – „dann treiben Sie natürlich auch die Lohn-Preis-Spirale in die Höhe" (Norbert Kleinwächter, Plenarprotokoll 20/42).
+* **Tariftreuegesetz (2026):** AfD stimmt gegen das Gesetz, das öffentliche Aufträge nur an Tariflohn-Firmen vergibt.
 * **Streikrecht:** AfD will unbefristete Streiks nur nach zwingenden Schlichtungsverfahren.
 
 Das Abstimmungsverhalten zeigt: Die AfD widerspricht sich in genau den Fragen, die für Arbeitnehmer entscheidend sind.
@@ -53,7 +53,7 @@ Und was macht die AfD dagegen? Sie will das EU-Verbrenner-Aus kippen (was politi
 
 ## 5. Russland, Gas und die Seite des Aggressors
 
-Die AfD fordert im Europawahlprogramm die „sofortige Aufhebung der Wirtschaftssanktionen" gegen Russland, die „Instandsetzung der Nord-Stream-Leitungen" und „ungestörten Handel mit Russland". Chrupalla begründet das mit Energiepreisen. Und dann war da die **Voice-of-Europe-Affäre**, bei der EU-Sanktionen gegen eine prorussische Plattform ergingen und gegen AfD-Abgeordnete wie Krah und Bystron ermittelt wurde – mehr dazu unter [[AFD/Volksverräter/Voice of Europe|Voice of Europe]].
+Die AfD fordert im Europawahlprogramm die „sofortige Aufhebung der Wirtschaftssanktionen" gegen Russland, die „Instandsetzung der Nord-Stream-Leitungen" und die „Wiederherstellung des ungestörten Handels mit Russland". Chrupalla begründet das mit Energiepreisen. Und dann war da die **Voice-of-Europe-Affäre**, bei der EU-Sanktionen gegen eine prorussische Plattform ergingen und gegen AfD-Abgeordnete wie Krah und Bystron ermittelt wurde – mehr dazu unter [[AFD/Volksverräter/Voice of Europe|Voice of Europe]].
 
 Klartext fürs Portemonnaie: Günstiges russisches Gas würde die Energieversorgung wieder in die Hand von Putin legen, während die EU bis 2027 den Gasimport stoppen will. Eine Partei, die den Angreifer hofiert, ist nicht dein Partner – sie setzt sich für die Interessen des Aggressors ein, nicht für deinen Job.
 

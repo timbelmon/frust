@@ -24,7 +24,7 @@ Der eigentliche Hinhaltungs-Kern der „Habeck ist schuld"-Erzählung ist das ab
 
 * Gestrichen wurde sie von der **gesamten Ampel** (SPD/Grüne/FDP), ausgelöst durch die Karlsruher Entscheidung gegen den 60-Milliarden-Klimafonds.
 * Der harte Widerstand gegen eine Übergangsfrist kam vom **FDP-Finanzminister Christian Lindner**, nicht von Habeck.
-* Habeck nannte die Streichung selbst „eine Entscheidung, die mir weh tut".
+* Habeck sagte dazu selbst: „Das tut mir weh, aber das ist der Preis dafür, dass die zentralen Bestandteile, die Säulen des Klima- und Transformationsfonds erhalten bleiben." (ecomento, 14.12.2023)
 
 Und Habeck hat nachweislich **für die Autoindustrie** gekämpft: Er besuchte das VW-Werk Emden, rief den Autogipfel mit IG Metall und Herstellern ein, forderte VW öffentlich auf, ein E-Auto für 20.000 € zu bauen, schlug Steueranreize und ein „Social Leasing" für Geringverdiener vor.
 
@@ -38,7 +38,7 @@ Die unabhängigen Institute – also gerade nicht grünen-freundliche Denkfabrik
 
 ### Der ehrliche Kern
 
-Darf man **kritik** an Habecks politischen Zielen üben? Natürlich – über Klimapolitik, Verbrenner-Aus und Förderungen kann und soll man streiten. Es ist legitim zu sagen: „Der Staat hätte mehr für den Standort tun können." Auch die Abschaffung der Kaufprämie hat die private E-Auto-Nachfrage geschwächt.
+Darf man **Kritik** an Habecks politischen Zielen üben? Natürlich – über Klimapolitik, Verbrenner-Aus und Förderungen kann und soll man streiten. Es ist legitim zu sagen: „Der Staat hätte mehr für den Standort tun können." Auch die Abschaffung der Kaufprämie hat die private E-Auto-Nachfrage geschwächt.
 
 Aber die Behauptung, die Grünen und **nur sie** hätten VW „ruiniert" und Habeck sei der Einzeltäter, trägt die Hauptlast nicht. Die hart belegbaren Gründe – China, BYD, Kosten, Software, eigene Strategiefehler – liegen außerhalb jeder deutschen Einzelminister-Steuerung. Wer den ganzen Frust auf eine Person projiziert, verwechselt Sündenbock mit Ursache.
 
@@ -61,6 +61,7 @@ Das ist der eigentliche Flurfunk: Er ist nicht falsch, weil er Wut hat – sonde
 * DIW: [Nicht nur bei VW – wieso Arbeitsplatzabbau manchmal nötig ist](https://www.diw.de/de/diw_01.c.924627.de/publikationen/wochenberichte/2024_45_3/nicht_nur_bei_vw__wieso_arbeitsplatzabbau_manchmal_noetig_ist__kommentar.html)
 * ZDFheute: [Blume zweifelt am Verbrenner-Aus 2035 (26.04.2025)](https://www.zdfheute.de/wirtschaft/unternehmen/volkswagen-blume-zweifel-verbrenner-2035-100.html)
 * ZEIT: [VW-Chef Blume: Verbrenner-Aus 2035 ist unrealistisch (09.10.2025)](https://www.zeit.de/news/2025-10/09/vw-chef-blume-verbrenner-aus-2035-ist-unrealistisch)
+* ecomento: [Umweltbonus endet früher – Habeck: „Das tut mir weh" (14.12.2023)](https://ecomento.de/2023/12/14/elektroauto-kaufpraemie-umweltbonus-endet-frueher/)
 
 ---
 

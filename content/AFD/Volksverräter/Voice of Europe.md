@@ -1,21 +1,19 @@
-# Voice of Europe – Russische Einflussnahme und die AfD
-
 ## 1. Was ist Voice of Europe?
 
-Hinter „Voice of Europe" verbirgt sich ein pro-russisches Desinformationsportal, das als Nachrichtenportal auftrat – „uncensored news from Europe and the world". Veröffentlicht in 16 Sprachen, rund 180.000 Follower auf X. Die Domain existiert seit 2000, das Portal wurde 2016 in den Niederlanden (Dronten) von dem niederländischen Geschäftsmann Erik de Vlieger gegründet. Ende 2019 ging es offline.
+Hinter „Voice of Europe“ verbirgt sich ein pro-russisches Desinformationsportal, das als Nachrichtenportal auftrat – „uncensored news from Europe and the world“. Veröffentlicht in 16 Sprachen, rund 180.000 Follower auf X. Die Domain existiert seit 2000, das Portal wurde 2016 in den Niederlanden (Dronten) von dem niederländischen Geschäftsmann Erik de Vlieger gegründet. Ende 2019 ging es offline.
 
 Im März 2023 übernahm der polnische Geschäftsmann Jacek January Jakubczyk die Anteile. Im Mai 2023 wurde Voice of Europe in Prag neu aufgelegt – und dahinter saß ein Mann, den die Ukraine 2022 gegen 215 Kriegsgefangene ausgetauscht hatte: **Viktor Medvedchuk**.
 
-Der ukrainische Oligarch, Putin-Pate und Kopf der prorussischen „Oppositionsplattform – Für das Leben" finanzierte und steuerte das Portal aus dem russischen Exil über seinen Vertrauten **Artem Marchewski** – den ehemaligen Generalproduzenten von Medvedchuks TV-Sender 112 Ukraine. Marchewski war in Prag der operative Kopf der gesamten Operation.
+Der ukrainische Oligarch, Putin-Pate und Kopf der prorussischen „Oppositionsplattform – Für das Leben“ finanzierte und steuerte das Portal aus dem russischen Exil über seinen Vertrauten **Artem Marchewski** – den ehemaligen Generalproduzenten von Medvedchuks TV-Sender 112 Ukraine. Marchewski war in Prag der operative Kopf der gesamten Operation.
 
 ## 2. Die Aufdeckung: 300 Seiten Akte
 
-Am 28. März 2024 legte der tschechische Geheimdienst BIS (Bezpečnostní informační služba) die Operation offen. BIS-Direktor Michal Koudelka präsentierte einen **300-seitigen Bericht**, der die Geldflüsse dokumentierte – finanziert „unter direkter Auftrag der Fünften Dienststelle des FSB".
+Am 28. März 2024 legte der tschechische Geheimdienst BIS (Bezpečnostní informační služba) die Operation offen. BIS-Direktor Michal Koudelka präsentierte einen **300-seitigen Bericht**, der die Geldflüsse dokumentierte – finanziert „im direkten Auftrag der Fünften Dienststelle des FSB“.
 
 Was die BIS aufgedeckt hatte:
 *   Voice of Europe war das sichtbare Frontunternehmen eines russischen staatlich finanzierten Netzwerks
 *   Marchewski wurde in Prag mit verdeckten Abhörmaßnahmen überwacht – unter anderem Abhörmikrofonen in seinem Auto
-*   Die Aufzeichnungen dokumentierten **physische Barübergaben** – unter anderem die legendäre Aufnahme einer Bargeldübergabe an Petr Bystron
+*   Die Aufzeichnungen dokumentierten **physische Barübergaben** – unter anderem die Aufnahme einer Bargeldübergabe an Petr Bystron
 
 Tschechiens Regierungschef Petr Fiala bezeichnete es als eine Einflussoperation, die die Ukraine und die EU-Sicherheit untergrabe. Medvedchuk, Marchewski und Voice of Europe wurden auf die tschechische Sanktionsliste gesetzt.
 
@@ -29,21 +27,21 @@ Die BIS kooperierte mit dem polnischen ABW, Belgien, Frankreich und dem ukrainis
 
 **Hybrid-Bedrohungen:** Am 20. Mai 2025 folgte die Listung im RUSDA-Regime (Verordnung (EU) 2025/965) – Voice of Europe wurde formal in das EU-Framework gegen russische Destabilisierungsaktivitäten aufgenommen.
 
-Canada (Juni 2024), die Schweiz und die Ukraine (August 2025) schlossen sich mit eigenen Sanktionen an.
+Kanada (Juni 2024), die Schweiz und die Ukraine (August 2025) schlossen sich mit eigenen Sanktionen an.
 
 ## 4. Maximilian Krah – Russland, China und der Spionage-Skandal
 
 Maximilian Krah war Spitzenkandidat der AfD für die Europawahl 2024. Er gab **zwei Interviews** bei Voice of Europe und verbreitete nach BIS-Einschätzung pro-kremlinische Narrative.
 
-Im Dezember 2023, während eines Aufenthalts in New York, **verhörte das FBI Krah** – im Verdacht, Gelder vom pro-russischen ukrainischen Ex-Abgeordneten Oleh Woloschyn erhalten zu haben. In abgehörten Chats war von „Kompensation für technische Ausgaben" die Rede. Krah bestritt jegliche Gelder.
+Im Dezember 2023, während eines Aufenthalts in New York, **verhörte das FBI Krah** – im Verdacht, Gelder vom pro-russischen ukrainischen Ex-Abgeordneten Oleh Woloschyn erhalten zu haben. In abgehörten Chats war von „Kompensation für technische Ausgaben“ die Rede. Krah bestritt jegliche Gelder.
 
-Die Spiegel-Recherche ergab, dass Krah zwischen 2019 und 2022 **über 50.000 Euro** von Unternehmen erhielt, die seinem chinesischen Mitarbeiter Jian Guo nahestanden.
+Die Spiegel-Recherche ergab, dass Krah zwischen 2019 und 2022 **über 50.000 Euro** von Unternehmen aus dem Umfeld seines chinesischen Mitarbeiters Jian Guo erhalten haben soll.
 
 **Die Spionage-Affäre – was wirklich passierte:**
 
 Am 23. April 2024 verhaftete der Generalbundesanwalt Jian Guo – Krahs parlamentarischen Mitarbeiter – wegen Spionage für den chinesischen Geheimdienst. Guo hatte von 2019 bis 2024 mit Krahs Zugangsdaten Zugang zu vertraulichen Dokumenten erhalten.
 
-Am 30. September 2025 verurteilte der Oberste Landgerichtshof Dresden Guo zu **4 Jahren und 9 Monaten** wegen Spionage. Seine Komplizin Yaqi X. erhielt 1 Jahr und 9 Monate auf Bewährung.
+Am 30. September 2025 verurteilte das Oberlandesgericht Dresden Guo zu **4 Jahren und 9 Monaten** wegen Spionage. Seine Komplizin Yaqi X. erhielt 1 Jahr und 9 Monate auf Bewährung.
 
 **Krah selbst** wurde am 8./9. Mai 2025 vom Generalstaatsanwalt Dresden wegen **Bestechlichkeit und Geldwäsche** (China-Zahlungen) unter Vorermittlung gestellt. Am 11. September 2025 hob der Bundestag seine Immunität auf; es folgten Durchsuchungen in Berlin, Dresden und Brüssel. Am 27. Februar 2026 folgten weitere Ermittlungen gegen Dritte.
 
@@ -55,31 +53,31 @@ Petr Bystron war AfD-Spitzenkandidat Nummer 2 für die Europawahl. Auch er trat 
 
 Der zentrale Vorwurf: Auf einer abgehörten Aufnahme aus Marchewskis Auto in Prag war eine **Bargeldübergabe von 20.000 Euro** an Bystron dokumentiert. Die tschechische BIS übergab die Aufzeichnung tschechischen Parlamentariern.
 
-Transparency International Deutschland schätzte den Gesamtbetrag auf **mindestens 34.000 Euro in Bargeld und Kryptowährung**. Die EU-Parlamentsresolution sprach von Zahlungen bis zu 25.000 Euro.
+Transparency International Deutschland verwies auf den Münchner Untersuchungsbeschluss, dem zufolge Bystron Barzahlungen von über 34.000 Euro von Voice of Europe erhalten haben soll. In Berichten aus dem April 2024 war zudem von Zahlungen bis zu 25.000 Euro die Rede.
 
 **Ermittlungen und Durchsuchungen:**
 
-Im April 2024 leitete die Münchner Staatsanwaltschaft ein Vorverfahren wegen Bestechung von Mandatsträgern und Geldwäsche ein. Am 16. Mai 2024 hob der Bundestag Bystrons Immunität auf. **Rund 70 Polizisten und 11 Staatsanwälte** durchsuchten sein Berliner Büro sowie Objekte in Mallorca, München, Erding und Deggendorf. Die Ermittler fanden Zahlungsbelege, eine Goldbarren-Liste und Dokumente zu einer Immobilie in Brüssel im Wert von rund 2 Millionen Euro.
+Im April 2024 leitete die Münchner Staatsanwaltschaft ein Vorverfahren wegen Bestechung von Mandatsträgern und Geldwäsche ein. Am 16. Mai 2024 hob der Bundestag Bystrons Immunität auf. **Rund 70 Polizisten und 11 Staatsanwälte** durchsuchten sein Berliner Büro sowie Objekte in Mallorca, München, Erding und Deggendorf. Die Ermittler fanden Kontoauszüge, eine Goldbarren-Liste und das Exposé einer Immobilie in Brüssel im Wert von rund 2 Millionen Euro.
 
-Am 1. April und 6. Mai 2025 hob das EU-Parlament ebenfalls die Immunität auf – wegen Voice of Europe-Vorwürfen sowie Steuerhinterziehung in mindestens fünf Fällen und Betrug in mindestens sechs Fällen (Rechtsbericht P10_TA(2025)0067).
+Das EU-Parlament hob seine Immunität am 1. April 2025 im Fall der Hitlergruß-Kollage auf (Beschluss P10_TA(2025)0041) und am 6. Mai 2025 wegen der Voice of Europe-Vorwürfe – Bestechlichkeit, Geldwäsche und Betrug in mindestens sechs Fällen sowie Steuerhinterziehung in mindestens fünf Fällen (Beschluss P10_TA(2025)0067).
 
-**Ein VoE-Bestechungsurteil gegen Bystron gibt es bislang nicht.** Sein einziges strafrechtliches Ergebnis: Am 17. Oktober 2025 verurteilte ihn das Amtsgericht München wegen der Merkel-Hitlergruß-Kollage (2022) zu 11.250 Euro Geldstrafe. Am 7. Mai 2026 sprach das Landgericht München I ihn in Berufung frei – „geschmacklos, aber nicht strafbar".
+**Ein VoE-Bestechungsurteil gegen Bystron gibt es bislang nicht.** Sein einziges strafrechtliches Ergebnis: Am 17. Oktober 2025 verurteilte ihn das Amtsgericht München wegen der Merkel-Hitlergruß-Kollage (2022) zu 11.250 Euro Geldstrafe. Am 7. Mai 2026 sprach das Landgericht München I ihn in Berufung frei – „geschmacklos, aber nicht strafbar“.
 
 ## 6. Weitere AfD-Verbindungen
 
 Die AfD-Spitze reagierte mit Normalisierung: Krah und Bystron wurden aus der parteiinternen Spitzengruppierung entfernt, aber nicht aus der Partei ausgeschlossen.
 
-**Steffen Kotré** (AfD-Bundestagsabgeordneter) und **Stefan Keuter** (AfD-Außenpolitik-Sprecher) – Beide wurden vom polnischen ABW im Sommer 2022 als Zeugen befragt. Keuter organisierte die Konferenz „Wirtschaft gegen Sanktionen" und genehmigte AfD-Russlandreisen.
+**Steffen Kotré** (AfD-Bundestagsabgeordneter) und **Stefan Keuter** (AfD-Außenpolitik-Sprecher) – Beide wurden vom polnischen ABW im Sommer 2022 als Zeugen befragt. Keuter organisierte die Konferenz „Wirtschaft gegen Sanktionen“ und genehmigte AfD-Russlandreisen.
 
-**Broaderes Netzwerk:** Voice of Europe zahlte offenbar auch Politikern aus Frankreich, Polen, Belgien, den Niederlanden und Ungarn. Auftritte hatte auch Italiens Matteo Gazzini (dementierte Zahlungen), Spaniens Vox und das niederländische Forum für Demokratie.
+**Breiteres Netzwerk:** Voice of Europe zahlte offenbar auch Politikern aus Frankreich, Polen, Belgien, den Niederlanden und Ungarn. Auftritte hatte auch Italiens Matteo Gazzini (dementierte Zahlungen), Spaniens Vox und das niederländische Forum für Demokratie.
 
 **Nathan Gill** (ex-Reform UK MEP, Großbritannien) wurde am 21. November 2025 zu **10 Jahren und 6 Monaten** verurteilt – wegen Bestechung durch Oleh Woloschyn, genau der Verdächtige, den das FBI auch hinter Krahs Geldflüssen vermutet.
 
-## 7. Tillschneider und die „Armee Russlands"-Tasse
+## 7. Tillschneider und die „Armee Russlands“-Tasse
 
-Hans-Thomas Tillschneider, AfD-Funktionär in Sachsen-Anhalt und stellvertretender Fraktionsvorsitzender, hielt im August 2026 – mitten im Landwahlkampf – eine schwarze Kaffeetasse mit rotem Stern und der Aufschrift **„Армия России" (Armee Russlands)** in seinem Wahlkreisbüro in Querfurt. Bild-Reporter Paul Ronzheimer machte ein Foto.
+Hans-Thomas Tillschneider, AfD-Funktionär in Sachsen-Anhalt und stellvertretender Fraktionsvorsitzender, hielt im August 2026 – mitten im Landwahlkampf – eine schwarze Kaffeetasse mit rotem Stern und der Aufschrift **„Армия России“ (Armee Russlands)** in seinem Wahlkreisbüro in Querfurt. Bild-Reporter Paul Ronzheimer machte ein Foto.
 
-Tillschneider nannte sie ein Geschenk von einer Russlandreise: „Wollte sie nicht wegwerfen." Auf die Frage, ob Russland ein Feind sei: „Das ist nicht unser Krieg." Russland sei „weder ein Feind noch ein Freund". Über die Tasse wurde er zornig: „Machen Sie Schluss mit dieser blöden Tasse." Über seinen Anwalt versuchte er die Veröffentlichung zu verhindern – das Video lief trotzdem.
+Tillschneider nannte sie ein Geschenk von einer Russlandreise: „Die hat mir jemand geschenkt. Ich wollt' sie jetzt nicht wegtun.“ Auf die Frage, ob Russland ein Feind sei: „Es ist nicht unser Krieg.“ Russland sei „weder Feinde noch Freunde“. Über die Tasse wurde er zornig: „Hören Sie mit dieser blöden Tasse auf.“ Über seinen Anwalt versuchte er die Veröffentlichung zu verhindern – das Video lief trotzdem.
 
 Die Tasse ist keine Straftat und kein Teil der VoE-Zahlungsaffäre. Sie ist ein Symptom.
 
@@ -103,8 +101,8 @@ Aus dem russischen Exil heraus steuerte er Voice of Europe über Marchewski. Der
 * Politico EU: [How Russia's Voice of Europe scandal ensnared European politicians](https://www.politico.eu/article/voice-of-europe-russia-influence-scandal-election/)
 * Reuters: [EU sanctions Voice of Europe and related businessmen](https://www.reuters.com/world/europe/eu-sanctions-voice-europe-related-businessmen-czech-ministry-says-2024-05-27/)
 * EU-Rat: [Rundfunkverbot – Council Regulation 2024/1428](https://www.consilium.europa.eu/en/press/press-releases/2024/05/17/russia-s-war-of-aggression-against-ukraine-council-bans-broadcasting-activities-in-the-european-union-of-four-more-russia-associated-media-outlets/)
-* EU-Rat: [RUSDA-Hybrid-Bedrohungsliste 2025/965](https://www.consilium.europa.eu/en/press/press-releases/2025/05/20/)
-* EU-Parlament: [Rechtsausschussbericht P10_TA(2025)0067](https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:C_202600588)
+* EU-Rat: [RUSDA-Hybrid-Bedrohungsliste 2025/965](https://www.consilium.europa.eu/en/press/press-releases/2025/05/20/russian-hybrid-threats-eu-lists-further-21-individuals-and-6-entities-and-introduces-sectoral-measures-in-response-to-destabilising-activities-against-the-eu-its-member-states-and-international-partners/)
+* EU-Parlament: [Beschluss P10_TA(2025)0067](https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:C_202600588)
 * Tagesschau: [AfD-Abgeordnete und Voice of Europe](https://www.tagesschau.de/inland/innenpolitik/afd-voice-of-europe-100.html)
 * Tagesschau/Kontraste: [Russland-Verbindungen Krah/Bystron](https://www.tagesschau.de/investigativ/kontraste/russland-afd-krah-bystron-voice-of-europe-100.html)
 * Tagesschau: [Durchsuchungen bei Krah](https://www.tagesschau.de/inland/innenpolitik/afd-krah-durchsuchungen-100.html)

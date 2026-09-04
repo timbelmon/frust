@@ -40,7 +40,7 @@ Für Täter ist das ein Eldorado: Eine Partei, die Aufklärung in Schulen blocki
 * NDR: [Kinderpornografie besessen? AfD-Ratsherr aus Hannover tritt zurück](https://www.ndr.de/nachrichten/niedersachsen/hannover_weser-leinegebiet/kinderpornografie-besessen-afd-ratsherr-aus-hannover-tritt-zurueck,afd-1100.html)
 * Bundestag.de: [Grüne wollen „Ja-heißt-Ja"-Regel im Sexualstrafrecht](https://www.bundestag.de/presse/hib/kurzmeldungen-1167106)
 * Tagesspiegel: [Grüne wollen „Nur Ja heißt Ja"-Regel im Sexualstrafrecht verankern](https://www.tagesspiegel.de/schweigen-und-passivitat-sind-keine-zustimmung-grune-wollen-nur-ja-heisst-ja-regel-im-sexualstrafrecht-verankern-15515369.html)
-* Deutschlandfunk: [Grüne wollen „Nur Ja heißt Ja" im Sexualstrafrecht verankern](https://www.deutschlandfunk.de/gruene-wollen-nur-ja-heisst-ja-im-sexualstrafrecht-verankern-1165906)
+* Deutschlandfunk: [Grüne wollen „Nur Ja heißt Ja" im Sexualstrafrecht verankern](https://www.deutschlandfunk.de/gruene-wollen-nur-ja-heisst-ja-im-sexualstrafrecht-verankern-100.html)
 * AfD: [Bundestagswahlprogramm 2025 „Zeit für Deutschland"](https://www.afd.de/wp-content/uploads/2025/02/AfD_Bundestagswahlprogramm2025_web.pdf)
 
 Verwandte Artikel: [[AFD/Rechtsradikal/Verfassungsschutz|Verfassungsschutz]] · [[AFD/Personen/Björn Höcke|Björn Höcke]]

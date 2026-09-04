@@ -1,5 +1,3 @@
-# Verschwörungstheorie des „Großen Austauschs“ und die Mär von der islamistischen Machtübernahme
-
 ## 1. Ursprung des Narrativs und die „Große Austausch“-Erzählung
 
 Die Behauptung, es gäbe eine gezielte Verdrängung der europäischen Bevölkerung („Verdrängung des weißen Mannes“), entstammt direkt dem ideologischen Fundament der **Neuen Rechten** und rechtsextremen Verschwörungstheorien wie dem sogenannten **„Großen Austausch“ (*Great Replacement*)**.

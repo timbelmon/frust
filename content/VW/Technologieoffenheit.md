@@ -10,7 +10,7 @@ Der Begriff klingt vernünftig: Statt einer einzigen Technologie vorzuschreiben,
 
 Die Realität ist komplizierter. Das EU-Verbrennerverbot („Fit for 55") ist seit 2022 beschlossen: Ab 2035 sollen Neuzulassungen kein CO₂ mehr ausstoßen. Juristisch kein Verbot von Verbrennern, aber praktisch das Ende für Neuwagen mit Verbrennungsmotor. Im Dezember 2025 hat die EU-Kommission nachgebessert: Statt 100 Prozent CO₂-Reduktion reichen nun 90 Prozent – ein kleiner Korridor bleibt für E-Fuels und CO₂-arme Kraftstoffe.
 
-Wer jetzt „Technologieoffenheit" fordert, will diesen Korridor ausweiten. Die Formel lautet: Lass den Markt entscheiden, nicht die Politik. Der Vertriebschef von VW, Martin Sander, formuliert es als Pferde-Vergleich: „Wann wurden Pferde verboten? Man kann heute noch ein Pferd kaufen. Aber irgendwann haben immer mehr Menschen erkannt, dass ein Auto besser ist."
+Wer jetzt „Technologieoffenheit" fordert, will diesen Korridor ausweiten. Die Formel lautet: Lass den Markt entscheiden, nicht die Politik. Der Vertriebschef von VW, Martin Sander, formuliert es als Pferde-Vergleich: „Wann wurden Pferde verboten?" … „Irgendwie haben im Laufe der Zeit immer mehr Menschen erkannt, dass ein Auto viel besser ist als ein Pferd."
 
 Klingt elegant. Aber Sander sagt damit im Grunde: Das Verbrennerverbot ist gar nicht nötig, weil der Markt den Verbrenner eh sterben lassen wird. Genau das ist der Punkt, an dem die „Technologieoffenheit"-Debatte in sich zusammenfällt.
 
@@ -69,7 +69,7 @@ Aber wie die SZ analysiert: „Der Erfolg von BMW lässt sich nicht mit Technolo
 
 Aber: BMWs Neue Klasse baut ab 2026 nur noch E-Autos. Die Flexibilität, die BMW gerettet hat, ist bei BMW selbst auf dem absteigenden Ast. Die „Technologieoffenheit" war keine Weitsicht – es war eine risikoaversere Wette, die sich in einer volatilen Welt ausgezahlt hat. Ob sie auch in einer Welt funktioniert, in der sich der Markt festlegt, ist offen.
 
-VW-Pkw-Chef Thomas Schäfer nennt Wasserstoff-Antriebe in Großserien eine „Scheindiskussion" und sieht Range Extender als Übergangstechnologie. Die Realität bei VW: Der Konzern investiert Milliarden in eigene Batteriefertigung (Salzgitter), MEB+-Plattform und SSP-Plattform. Der ID.Polo, der ID.Cross und der ID.Every1 werden ab 2027 nur noch elektrisch kommen. Das ist keine Technologieoffenheit – das ist ein einseitiges Investment in eine Technologie.
+VW-Pkw-Chef Thomas Schäfer nennt Wasserstoff-Antriebe in Großserien eine „Scheindiskussion" und sieht Range Extender als Übergangstechnologie. Die Realität bei VW: Der Konzern investiert Milliarden in eigene Batteriefertigung (Salzgitter), MEB+-Plattform und SSP-Plattform. Der ID.Polo, der ID.Cross und der ID.Every1 werden ab 2027 nur noch elektrisch kommen. VW investiert damit einseitig in eine Technologie.
 
 ---
 
@@ -81,7 +81,7 @@ Jetzt, wo VW in der größten Krise steckt, hat Diess ein paar Sätze gesagt, di
 
 „Die erneute Diskussion für oder gegen das Verbrennerverbot 2035 lenkt den Blick ab von der zentralen politischen Aufgabe: die europäische Autoindustrie global wettbewerbsfähig zu machen." (WiWo, September 2025)
 
-„Gerade jetzt darf man nicht nachlassen, kein 'Gas rausnehmen' bei den Zukunftstechnologien."
+„Gerade jetzt darf man nicht nachlassen, kein ‚Gas rausnehmen' bei den Zukunftstechnologien."
 
 „Für Verbrenner spricht hauptsächlich Ideologie." (Podcast, Juli 2026)
 
@@ -89,20 +89,20 @@ Jetzt, wo VW in der größten Krise steckt, hat Diess ein paar Sätze gesagt, di
 
 Diess hat 2019 mit Daten argumentiert, die heute jeder sieht: Unter 100 Gramm CO₂ ist mit Verbrennern – selbst mit leichter Hybridisierung – nicht machbar, wenn man große Autos verkaufen will. Die Flottenemissionsziele des Gesetzgebers zwingen zur Elektrifizierung. Das war 2019 so, und 2026 ist es immer noch so.
 
-Sein Fazit: „Noch ist nichts verloren. VW hat bei Elektrofahrzeugen keinen niedrigeren Marktanteil als bei Verbrennern, eher höher – etwa 30 Prozent." Aber: In der neuen Welt brauche es ein Ökosystem – die besten Batteriehersteller, die schnellste Ladeinfrastruktur, hohe Absatzzahlen mit E-Autos. Und das habe China schneller aufgebaut als Deutschland.
+Sein Fazit: „Es ist noch nichts verloren. VW hat bei Elektrofahrzeugen keinen niedrigeren Marktanteil als bei Verbrennern, eher höher – etwa 30 Prozent." Aber: In der neuen Welt brauche es ein Ökosystem – die besten Batteriehersteller, die schnellste Ladeinfrastruktur, hohe Absatzzahlen mit E-Autos. Und das habe China schneller aufgebaut als Deutschland.
 
 ---
 
 ## Die nackten Zahlen: VWs Zukunftsplan ohne Verbrennerverbot
 
-Der Aufsichtsrat hat am 4. September 2026 dem „Zukunftsplan 2030" zugestimmt:
+Der Aufsichtsrat hat am 3. September 2026 dem „Zukunftsplan 2030" zugestimmt:
 
 - **50.000 Stellen** sollen konzernweit wegfallen – über die bereits vereinbarten 35.000 hinaus
 - Die **Modellpalette** soll um bis zu 50 Prozent schrumpfen
 - Die **Angebotskomplexität** (Motoren, Ausstattungen, Varianten) soll um bis zu 75 Prozent sinken
 - Die Produktion wird auf rund **9 Millionen Fahrzeuge pro Jahr** ausgelegt – vor Corona waren es 12 Millionen
 - **Überkapazitäten** von 500.000 Fahrzeugen in Europa
-- Für **Emden, Zwickau, Hannover und Neckarsulm** besteht „ab 2031 bis 2034 keine wettbewerbsfähige Folgebelegung"
+- Für **Emden, Zwickau, Hannover und Neckarsulm** besteht „keine wettbewerbsfähige Folgebelegung gestaffelt ab den Jahren 2031 bis 2034"
 - Rendite-Ziel bis 2030: **9 Prozent** (2025: 2,8 Prozent)
 
 VW-Chef Blume nennt es „die umfassendste Neuausrichtung der Konzerngeschichte". Das Sanierungskonzept kommt ohne jedes Wort zum Verbrennerverbot aus. Denn: Der Jobabbau, die Werksschließungsdrohung, der Gewinneinbruch – nichts davon hat mit dem Verbrennerverbot zu tun. Es hat mit China zu tun, mit BYD, mit fehlenden E-Auto-Produkten, mit zu hohen Kosten, mit Jahren des Zögerns.

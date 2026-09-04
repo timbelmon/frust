@@ -12,7 +12,7 @@ Jenseits der humanitären Motivation stecken handfeste strategische Gründe:
 * **Zugang zu kritischen Rohstoffen:** Länder wie die DR Kongo besitzen weltwichtige Vorkommen (Kobalt, Coltan) für Elektronik und Energiewende. Vor-Ort-Präsenz sichert Zugänge, die China sonst exklusiv kontrollierte.
 * **Geopolitische Konkurrenz:** Angesichts des massiven chinesischen Engagements in Afrika hält Deutschland durch Partnerschaften wirtschaftlich und politisch mit.
 * **Fluchtursachen bekämpfen:** Investitionen in Infrastruktur, Gesundheit und Bildung sollen Stabilität schaffen und Migration eindämmen – das entlastet letztlich auch Europa und Deutschland.
-* **Krise der Entwicklungshilfe:** Die klassische Kritik (Geld versickert in Korruption) ist nicht vom Tisch. Neun UN-Geldgeber – darunter auch Deutschland – kürzten im Kontext von Haushaltslagen ihre Beiträge. Wer allerdings ganz aussteigt, gibt in den betreffenden Regionen den Einfluss an Russland und China ab.
+* **Krise der Entwicklungshilfe:** Die klassische Kritik (Geld versickert in Korruption) ist nicht vom Tisch. Deutschland kürzt damit nicht allein: Nach Einschätzung von Hilfsorganisationen ziehen sich die traditionellen westlichen Geberländer zunehmend aus der multilateralen Finanzierung zurück – die USA haben ihre Entwicklungshilfe viel drastischer gekürzt. Wer allerdings ganz aussteigt, gibt in den betreffenden Regionen den Einfluss an Russland und China ab.
 
 **Wie bedenklich ist das Ganze?**
 * **Korruption und schwache Institutionen:** In Partnerländern mit Krieg und intransparenten Strukturen kann ein Teil der Gelder versickern. Eine ehrliche Evaluation ist nötig – doch das ist ein Argument für bessere Kontrolle, nicht für Abschaffung.
@@ -27,6 +27,6 @@ Jenseits der humanitären Motivation stecken handfeste strategische Gründe:
 * Bundesministerium für wirtschaftliche Zusammenarbeit und Entwicklung (BMZ): [Demokratische Republik Kongo – Länderdaten](https://www.bmz.de/de/laender/demokratische-republik-kongo)
 * Bundesministerium für wirtschaftliche Zusammenarbeit und Entwicklung (BMZ): [Haushalt des BMZ](https://www.bmz.de/de/ministerium/zahlen-fakten/bmz-haushalt)
 * DW (Deutsche Welle): [Deutschland kürzt Entwicklungshilfe drastisch](https://www.dw.com/de/deutschland-k%C3%BCrzt-entwicklungshilfe-drastisch/a-74045934)
-* Tagesschau: [Ist die EU ein Verlustgeschäft für Deutschland?](https://www.tagesschau.de/europawahl/eu/finanzen-106.html)
+* Bundesministerium für wirtschaftliche Zusammenarbeit und Entwicklung (BMZ): [OECD-Bilanz 2025 – Deutschland verfehlt UN-Ziel für Entwicklungszusammenarbeit](https://www.bmz.de/de/aktuelles/aktuelle-meldungen/oecd-bilanz-2025-298358)
 
 Verwandte Artikel: [[Politik erklärt für Dummies/Soft Power|Soft Power]] · [[Politik erklärt für Dummies/UN-Beiträge|UN-Beiträge]] · [[Politik erklärt für Dummies/EU-Nettozahler|EU-Nettozahler]]

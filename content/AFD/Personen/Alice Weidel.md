@@ -8,7 +8,7 @@ Alice Weidel ist seit 2017 AfD-Spitzenkandidatin und seit 2022 Co-Bundesvorsitze
 
 Im Sommer 2017 gingen **18 Einzelüberweisungen** von insgesamt **132.005,52 Euro** auf dem Konto des AfD-Kreisverbands Bodenseekreis ein – Weidel war stellvertretende Kreisvorsitzende und Spitzenkandidatin. Die Beträge waren so gestückelt (jeweils knapp unter der Grenze von 10.000 Euro), dass keine Offenlegungspflicht ausgelöst wurde. Verwendungszweck: „Wahlkampfspende Alice Weidel Social Media".
 
-Offiziell stammten die Überweisungen von zwei Schweizer Pharmafirmen. Deren Verwaltungsrat bestätigte gegenüber SRF, das Geld sei „treuhänderisch für einen Geschäftsfreund" weitergeleitet worden – man wisse nicht, wer dahinterstehe. Ermittlungen der Staatsanwaltschaft Konstanz sowie Recherchen von NDR/WDR/SZ/Spiegel/Tages-Anzeiger identifizierten als wahren Spender den Duisburger Milliardär **Henning Conle**, der in Zürich und London lebt. Die AfD reichte später eine **Spenderliste mit 14 Namen** bei der Bundestagsverwaltung ein – es handelte sich um Strohmänner, darunter ein Hartz-IV-Empfänger.
+Offiziell stammten die Überweisungen von zwei Schweizer Pharmafirmen. Deren Verwaltungsrat bestätigte gegenüber SRF, das Geld sei „treuhänderisch für einen Geschäftsfreund" weitergeleitet worden – man wisse nicht, wer dahinterstehe. Ermittlungen der Staatsanwaltschaft Konstanz sowie Recherchen von NDR/WDR/SZ/Spiegel/Tages-Anzeiger identifizierten als wahren Spender den Duisburger Milliardär **Henning Conle**, der in Zürich und London lebt. Die AfD reichte später eine **Spenderliste mit 14 Namen** bei der Bundestagsverwaltung ein – doch mehrere der Aufgeführten entpuppten sich als Strohmänner, einer mit geschäftlichen Verbindungen zu Conle.
 
 Im Februar 2018 folgte eine weitere Großspende: **150.000 Euro** flossen über die niederländische „Stichting Identiteit Europa" an die AfD und wurden erst im Mai 2018 zurückgezahlt.
 
@@ -40,11 +40,11 @@ Im Juli 2025 erhöhten Weidel und Co-Chef Tino Chrupalla ihre monatlichen Funkti
 
 Weidel lebt mit ihrer eingetragenen Partnerin Sarah Bossard und den zwei Söhnen in einem Haus in **Einsiedeln (Schweiz)**. Als Hauptwohnsitz und Steuersitz gibt sie Überlingen (Bodenseekreis) an.
 
-Im Februar 2025 brach sie ein ZDF-Interview ab, als sie gefragt wurde, wie oft sie in Überlingen übernachtet – „Nee, ich hab' jetzt keine Lust mehr." Beim TV-Duell behauptete sie, sie „zahle hier [in Deutschland] ihre Steuern". Steuerrechtlich gilt: Deutschland ist als Ansässigkeitsstaat für ihre Bezüge maßgeblich – aber das Schweizer Eigentum muss in der Schweiz deklariert werden (Eigenmietwert als Einkommen, Vermögenssteuer). Ihre Aussage war damit unvollständig.
+Im Februar 2025 brach sie ein ZDF-Interview ab, als sie gefragt wurde, wie oft sie in Überlingen übernachtet – „Nee, ich hab' jetzt keine Lust mehr." Beim TV-Duell behauptete sie: „Ich zahle hier meine Steuern." Steuerrechtlich gilt: Deutschland ist als Ansässigkeitsstaat für ihre Bezüge maßgeblich – aber das Schweizer Eigentum muss in der Schweiz deklariert werden (Eigenmietwert als Einkommen, Vermögenssteuer). Ihre Aussage war damit unvollständig.
 
 ## 7. Die Annäherung an den Höcke-Flügel
 
-Weidel stimmte 2017 noch für ein Parteiausschlussverfahren gegen Björn Höcke. Nach ihrer Übernahme der Führung ruderte sie zurück. Im Bundestagswahlkampf 2025 sagte sie über Höcke: „Der Parteiausschluss war damals völlig überzogen. Fehler kann jeder machen." Auf die Frage, ob er als Minister geeignet sei: „Ja." Einen früheren Hitlergruß-Vorwurf des ZDF kommentierte sie in dieselbe Richtung. Historiker wiesen zudem ihre Aussage im Musk-Gespräch zurück, Hitler sei ein „Linker" gewesen.
+Weidel stimmte 2017 noch für ein Parteiausschlussverfahren gegen Björn Höcke. Nach ihrer Übernahme der Führung ruderte sie zurück. Im Bundestagswahlkampf 2025 sagte sie über Höcke: „Ich glaube, der Parteiausschluss war damals völlig überzogen. Fehler kann jeder machen." Auf die Frage, ob er als Minister geeignet sei: „Ja." Einen früheren Hitlergruß-Vorwurf des ZDF kommentierte sie in dieselbe Richtung. Historiker wiesen zudem ihre Aussage im Musk-Gespräch zurück, Hitler sei ein „Linker" gewesen.
 
 ## Quellen & Verweise
 
@@ -57,5 +57,6 @@ Weidel stimmte 2017 noch für ein Parteiausschlussverfahren gegen Björn Höcke.
 * Tagesschau: [Weidel und Chrupalla verdoppeln Zulagen (2025)](https://www.tagesschau.de/inland/innenpolitik/afd-zulagen-bundestag-100.html)
 * Tagesschau: [Plagiatsprüfung – kein Verfahren (25.01.2024)](https://www.tagesschau.de/inland/weidel-plagiatsverdacht-kein-verfahren-100.html)
 * Tagesspiegel: [Weidel bricht Interview zum Wohnsitz ab (2025)](https://www.tagesspiegel.de/politik/nee-ich-hab-jetzt-keine-lust-mehr-alice-weidel-bricht-interview-nach-frage-zu-ihrem-wohnsitz-ab-13228141.html)
+* ZDFheute: [Weidels falsche Hitler-Einordnung im Musk-Gespräch (2025)](https://www.zdfheute.de/politik/deutschland/afd-weidel-hitler-links-musk-interview-100.html)
 
 Verwandte Artikel: [[AFD/Personen/Björn Höcke|Björn Höcke]] · [[AFD/Personen/Christian Lüth|Christian Lüth]] · [[AFD/Politik für Reiche/Wer die AfD kauft|Wer die AfD kauft]] · [[AFD/Personen/Andreas Kalbitz|Andreas Kalbitz]]

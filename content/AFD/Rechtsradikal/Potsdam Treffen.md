@@ -1,5 +1,3 @@
-# Das Treffen in Potsdam und der Begriff „Remigration“
-
 ## 1. Das Geheimtreffen im November 2023
 Am 25. November 2023 trafen sich in der Villa Adlon (Landhaus Adlon) am Lehnitzsee bei Potsdam mehr als 20 Personen – hochrangige AfD-Politiker (darunter Roland Hartwig, damals persönlicher Referent der Parteivorsitzenden Alice Weidel), Mitglieder der WerteUnion, radikale Konservative sowie bekannte Vertreter der Identitären Bewegung, an der Spitze Martin Sellner. Aufgedeckt wurde das Treffen Mitte Januar 2024 durch eine Recherche von CORRECTIV, die den Inhalt anhand von Quellen und Aufnahmen rekonstruierte. Die Teilnahme zweier WerteUnion-Mitglieder bestätigte deren eigene Vereinigung; die AfD trennte sich kurz darauf von Weidel-Referent Hartwig. (Belege: CORRECTIV, Zeit, FAZ, Tagesschau, Spiegel – siehe Quellen)
 
@@ -26,6 +24,6 @@ Am 25. November 2023 trafen sich in der Villa Adlon (Landhaus Adlon) am Lehnitzs
 * Tagesschau/NDR: [Geheimtreffen in Potsdam: AfD stärker involviert (30.01.2024)](https://www.tagesschau.de/investigativ/ndr-wdr/afd-correctiv-potsdam-rechtsextremismus-identitaere-bewegung-100.html) – unabhängige Recherche, Untermauerung
 * Tagesschau: [Nach Bericht über Treffen von AfD und Identitären (10.01.2024)](https://www.tagesschau.de/inland/innenpolitik/afd-neonazis-remigration-102.html)
 * Spiegel: [AfD trennt sich von Weidels Referent Roland Hartwig (15.01.2024)](https://www.spiegel.de/politik/afd-trennt-sich-von-parteichefin-alice-weidels-referent-roland-hartwig-a-8d0a7dcb-e25c-4323-87fd-0548ca1527bb)
-* Staatliche Einordnung (zur Rechtmäßigkeit der Recherche): [Staatsanwaltschaften Brandenburg – Strafanzeigen zu CORRECTIV, kein Anfangsverdacht (28.03.2024)](https://staatsanwaltschaften.brandenburg.de/sta/de/presse/pressemitteilungen/~28-03-2024-strafanzeigen-im-zusammenhang-mit-correctiv-berichterstattung-ueber-ein-treffen-im-landh)
+* Staatliche Einordnung (zur Rechtmäßigkeit der Recherche): [Staatsanwaltschaft Potsdam – Strafanzeigen zu CORRECTIV, kein Anfangsverdacht (28.03.2024)](https://staatsanwaltschaften.brandenburg.de/sixcms/media.php/9/Presseerkl%C3%A4rung%20Correctiv-Berichterstattung.pdf)
 
 Verwandte Artikel: [[AFD/Rechtsradikal/Verfassungsschutz|Verfassungsschutz]] · [[AFD/Schwurbeleien/Great Replacement|Great Replacement]] · [[AFD/Personen/Björn Höcke|Björn Höcke]]
