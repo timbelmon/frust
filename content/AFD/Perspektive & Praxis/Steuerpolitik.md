@@ -11,12 +11,14 @@ Das System ist genial einfach und beendet den Bürokratiedschungel. Familien mit
 Das Konzept ist ein gigantisches Steuergeschenk für Superreiche. Ein einheitlicher Steuersatz von 25 % bedeutet mathematisch zwingend, dass Spitzenverdiener (die aktuell bis zu 42 % oder 45 % Reichensteuer zahlen) massiv entlastet werden, während Geringverdiener (die ohnehin kaum Steuern zahlen) wenig davon haben. Die Abschaffung der Erbschafts- und Vermögenssteuer zementiert soziale Ungleichheit, da Milliardenvermögen steuerfrei vererbt werden. Dem Staat brechen die Einnahmen weg, was unweigerlich zu Kürzungen bei Sozialsystemen und Infrastruktur führen muss.
 
 ### Der Realitätsabgleich (Bundestagspraxis):
-Die AfD-Fraktion hat das Konzept der 25 %-Flat-Tax als konkreten Antrag in den Bundestag eingebracht (z.B. Drucksache 19/27184). Wenn man die harte Mathematik dieses Antrags anwendet, stimmt es zwar, dass Familien durch Freibeträge profitieren. Der absolute Löwenanteil der finanziellen Entlastung geht jedoch zwingend an Einkommensmillionäre. Da die AfD diese Entlastung der Oberschicht aktiv parlamentarisch forciert und gleichzeitig die Abschaffung von Erbschaftssteuern fordert, handelt sie hier in der Praxis streng wirtschaftsliberal/neoliberal zugunsten hoher Einkommensklassen, nicht als "Partei der kleinen Leute".
+Die AfD-Fraktion hat die 25 %-Flat-Tax als konkreten Antrag in den Bundestag eingebracht (zuletzt Drucksache 21/589, „Programm für Deutschland"). In der Plenardebatte am 06.11.2025 erklärte der AfD-Abgeordnete Jörn König: „Für alle Arten von Erträgen wird ein einheitlicher Steuersatz von 25 Prozent erhoben – 25 Prozent für alle Fleißigen und nicht wie heute nur für Millionäre" (Plenarprotokoll 21/37, S. 4097; Bundestag-Mediathek, Video-ID 7643708). Wenn man die harte Mathematik dieses Antrags anwendet, stimmt es zwar, dass Familien durch Freibeträge profitieren – König ergänzte selbst: „Diese Familie spart pro Jahr über 12 000 Euro Steuern ein" (ebd.). Der absolute Löwenanteil der finanziellen Entlastung geht jedoch zwingend an Einkommensmillionäre. Da die AfD diese Entlastung der Oberschicht aktiv parlamentarisch forciert und gleichzeitig die Abschaffung von Erbschaftssteuern fordert, handelt sie hier in der Praxis streng wirtschaftsliberal/neoliberal zugunsten hoher Einkommensklassen, nicht als "Partei der kleinen Leute".
 
 ## Quellen & Verweise
 
 * AfD: [Grundsatzprogramm (2023)](https://www.afd.de/wp-content/uploads/2023/05/Programm_AfD_Online_.pdf)
 * AfD: [Bundestagswahlprogramm 2025 „Zeit für Deutschland"](https://www.afd.de/wp-content/uploads/2025/02/AfD_Bundestagswahlprogramm2025_web.pdf)
-* Deutscher Bundestag: [Drucksache 19/27184 – AfD-Antrag 25%-Flat-Tax](https://dserver.bundestag.de/btd/19/271/1927184.pdf)
+* Deutscher Bundestag: [Drucksache 21/589 – AfD-Antrag (25%-Flat-Tax)](https://dserver.bundestag.de/btd/21/005/2100589.pdf)
+* Deutscher Bundestag: [Plenarprotokoll 21/37, S. 4097 (Debatte 06.11.2025)](https://dserver.bundestag.de/btp/21/21037.pdf)
+* Deutscher Bundestag: [Bundestag-Mediathek, Rede Jörn König (Video-ID 7643708)](https://www.bundestag.de/mediathek/video?videoid=7643708)
 
 Verwandte Artikel: [[Wer die AfD kauft|Wer die AfD kauft]] · [[AFD/Perspektive & Praxis/Sozialsysteme & Bürgergeld (Hartz IV)|Sozialsysteme & Bürgergeld]]
