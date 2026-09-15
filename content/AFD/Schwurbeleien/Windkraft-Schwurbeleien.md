@@ -1,0 +1,85 @@
+## 1. Das Narrativ: Windräder als Giftspender und Vogelschredder
+
+Eine Windkraftanlage bringt im Betrieb keine giftigen Stoffe in den Boden oder ins Grundwasser. Trotzdem geistert seit Jahren eine Erzählung durch rechte und verschwörungsoffene Kanäle: Regen wasche Chemikalien von den Rotorblättern, die „Ewigkeitschemikalien" PFAS versickerten ins Grundwasser, der Boden unter dem Turm sei vergiftet, die Anlagen richteten ein Vogelmassaker an. Die passenden Schaubilder wandern durch Facebook-, Telegram- und X-Gruppen – besonders im Wahlkampf.
+
+Spitzenreiter bei der Verbreitung ist die AfD. Im Programm zur Bundestagswahl 2025 schreibt die Partei wörtlich: „Windenergieanlagen stellen grundsätzlich eine Gefährdung für Pflanzen und Tiere sowie eine Beeinträchtigung der Gesundheit und der Lebensqualität der Menschen dar." Dazu erklärt sie: „Keine andere Energieform fordert einen solch hohen Blutzoll in der Tierwelt wie die Windkraftindustrie." Und: „Zudem hat diese Energieerzeugungsart massive Auswirkungen auf den Boden- und Wasserhaushalt" (AfD-Wahlprogramm 2025, S. 80). Von dort wandern die Behauptungen als Anträge und Kleine Anfragen in den Bundestag und die Landtage (siehe Abschnitt 5).
+
+* **Der reale Kern:** Die Blattspitzen rasen je nach Windstärke mit bis zu 300 km/h durch Regen und Hagel. Der Niederschlag wirkt dabei wie ein Sandstrahler und trägt Material von der äußersten Schutzbeschichtung der Rotorblätter ab.
+* **Der Kurzschluss:** Aus diesem minimalen Materialabtrag wird die Behauptung „Regenwasser vergiftet den Boden". Gemessen wird dabei fast nie. Wo tatsächlich Bodenproben direkt unter einer Anlage genommen wurden, lag der PFAS-Wert unter der Hintergrundbelastung (siehe Abschnitt 2).
+* **Beispiel 2025:** Als in Rheinland-Pfalz PFAS in Wildschweinlebern gemessen wurden, kursierte sofort der Verdacht, Windräder seien die Quelle (agrarheute, 11.03.2025). Die bislang einzige direkte Bodenmessung unter einer Anlage fand keine erhöhten PFAS-Werte (siehe Abschnitt 2).
+
+## 2. Die Fakten zu Abrieb, Chemikalien und PFAS
+
+* **Wie viel abgerieben wird:** Die Schätzungen schwanken – die Bundesregierung selbst nennt sie „unterschiedlich und voneinander abweichend" (BT-Drs. 21/3236). Eine Worst-Case-Rechnung des Bundestages (2020) für alle Anlagen ergibt maximal 1.395 Tonnen Materialabrieb pro Jahr. Das Landesamt für Umweltschutz Sachsen-Anhalt gibt den durchschnittlichen Abrieb mit 2,74 kg je Anlage und Jahr an – das sind 0,02 Prozent der jährlich in Deutschland freigesetzten rund 330.000 Tonnen Mikroplastik (LAU). Zum Vergleich: Allein der Reifenabrieb aus dem Straßenverkehr liegt bei mehr als 100.000 Tonnen pro Jahr (Fraunhofer UMSICHT, zit. n. Quarks).
+* **Schuhsohlen schlagen Windräder:** Laut Fraunhofer UMSICHT gibt der Abrieb der Schuhsohlen einer Person dem Abrieb eines Rotorblatts etwa die Waage; das Waschen von Textilien setzt mehr als das Vierfache der Windkraft frei (Windfakten).
+* **PFAS:** Die Emissionsbilanzierung der EU-Chemikalienagentur ECHA (2020) beziffert den Anteil des gesamten Energiesektors an den PFAS-Emissionen auf etwa ein Promille (Suisse Eole; Windfakten spricht von einer „sehr geringen PFAS-Menge"). Die größte bekannte Eintragsquelle sind sehr wahrscheinlich Löschschäume; nach Schätzungen des Umweltbundesamtes gibt es in Europa rund 100.000 PFAS-Emittenten (Windfakten). Der Branchenverband WindEurope bestätigte 2023, dass die Industrie längst PFAS-freie Rotorblatt-Beschichtungen einsetzt; nach Angaben der Beschichtungshersteller enthalten die gängigen Polyurethan-Beschichtungen kein Bisphenol A (Windfakten). Auch der Energie-Atlas Bayern hält fest: Von Windenergieanlagen ist nach aktuellem Stand der Forschung kein relevanter Eintrag von PFAS in die Umwelt zu erwarten (Energie-Atlas Bayern).
+* **Die Messung vor Ort:** Die Schweizer Anlage „Calandawind" (Haldenstein) läuft seit März 2013. Im August 2025 hat das kantonale Amt für Natur und Umwelt Bodenproben direkt unterhalb und in der Nähe der Anlage entnommen: gemessen wurden 1,7 Mikrogramm PFAS pro Kilogramm – weniger als die landesweite Hintergrundbelastung von 2 bis 5 Mikrogramm. Der Einfluss des Windrads sei „weder erkennbar noch nachweisbar" (Suisse Eole, 08.04.2026). Einzelbefund: Es ist die bislang einzige veröffentlichte Messreihe im direkten Umfeld einer langjährig betriebenen Anlage. Als Indiz gegen eine „Verseuchung" taugt sie; einen flächendeckenden Beweis liefert sie nicht.
+* **Grundwasser:** Die Bundesanstalt für Geowissenschaften hält die Versiegelung durch Windräder für den Grundwasserhaushalt für „verschwindend gering"; das Bayerische Landesamt für Umwelt und die Fachagentur Windenergie an Land verneinen einen negativen Einfluss auf Grundwasserspiegel und Trinkwasserverfügbarkeit (Quarks). Das Landesamt Sachsen-Anhalt ergänzt: Bei ordnungsgemäßem Betrieb besteht keine Beeinträchtigung der Wasserqualität, Öleinträge sind nur bei technischen Defekten denkbar, und in den Wasserschutzzonen 1 und 2 dürfen Windräder nicht errichtet werden (LAU).
+
+## 3. Die Fakten zu „Blutzoll" und Vogelsterben
+
+Der „Blutzoll"-Satz der AfD klingt dramatisch. Wer ihn ernst nimmt, muss die anderen Todesursachen mitzählen.
+
+* **Vogelopfer je Ursache (NABU, zit. n. EnBW):** Glasfassaden bis 115 Millionen, Straßen- und Bahnverkehr bis 70 Millionen, freilaufende Hauskatzen bis 60 Millionen Vögel pro Jahr. Windkraftanlagen: rund 100.000 (BUND: „circa einhunderttausend im Jahr").
+* **Größenordnung:** Damit sterben an Glasfassaden allein rund 1.150-mal mehr Vögel pro Jahr als an Windrädern. Das Bundesamt für Naturschutz betont zugleich, dass sich die Zahl der Windkraftopfer nicht belastbar bestimmen lässt: tote Vögel werden nicht systematisch erfasst (Quarks).
+* **Wo Kritik berechtigt ist:** Für einige Arten sind Windräder wirklich gefährlich – etwa für große Greifvögel wie Rotmilan, Mäusebussard und Seeadler (Quarks). Nach Schätzungen des Leibniz-Instituts für Zoo- und Wildtierforschung sterben außerdem bis zu 200.000 Fledermäuse pro Jahr an deutschen Anlagen; weil sich die Tiere nur langsam vermehren, wiegen die Verluste besonders schwer (Quarks). Genehmigungen schreiben deshalb Abschaltzeiten bei Fledermausaktivität vor – das reduziert nach Angaben des IZW die Schlagopfer auf ein bis zwei Tiere je Anlage und Jahr (Quarks).
+* **Der Standort entscheidet:** Das Michael-Otto-Institut im NABU zeigt: Störung und Kollisionsrisiko hängen weniger von der Anlagengröße ab als von der Wahl des Standortes.
+* **Der eigentliche Verlusttreiber:** Die größte Gefahr für heimische Vögel ist die landwirtschaftliche Intensivierung mit Pestizideinsatz und Entwässerung – nicht die Windkraft (BUND).
+
+## 4. Die Fakten zu den kahlen Stellen unterm Windrad
+
+Wo unter einer Anlage eine Kiesfläche sichtbar ist, ist das keine vertrocknete oder „vergiftete" Wiese, sondern Bau- und Wartungsinfrastruktur.
+
+* **Kranstellfläche:** Der tonnenschwere Montagekran braucht einen tragfähigen Platz. Der Projektierer ABO Energy: „Die Kranstellfläche wird mit wasserdurchlässigem Schotter dauerhaft freigehalten. Das ermöglicht Reparaturen an der Anlage, wann immer diese erforderlich sein sollten."
+* **Behördliche Praxis:** Der Genehmigungsbescheid der SGD Nord (Rheinland-Pfalz, Windpark Schweinschied) verlangt, Wege, Kranstellflächen und Zufahrten nur als teilversiegelte Schotterflächen anzulegen, mit Schutzvlies gegen Bodenverdichtung und mit Zwischenbegrünung zu versehen.
+* **Versiegelung:** Dauerhaft versiegelt ist je Anlage eine Kreisfläche von rund 500 m² (Fundament). Weitere Flächen werden zwar genutzt, laut Landesamt Sachsen-Anhalt aber „meist nicht dauerhaft versiegelt", sodass der Niederschlag weiter versickern kann. In Sachsen-Anhalt macht die Anlagenversiegelung 0,01 Prozent der Landesfläche aus; Siedlung und Verkehr versiegeln 4,6 Prozent (LAU).
+* **Rückbau:** Zum Betriebsende gehören Abbau und Rückbau der Anlage; Bodenversiegelungen müssen beseitigt werden, und Rechtsprechung wie die meisten Bundesländer verlangen die vollständige Entfernung der Fundamente (BWE).
+
+## 5. Wer den Unsinn in die Parlamente trägt
+
+Die Kausalbehauptungen werden systematisch zu politischen Vorlagen verarbeitet. Das Ziel ist der Ausbaustopp.
+
+* **Im Wahlprogramm:** „Verhinderung immer höherer Netzentgelte durch WindenergieAusbaustopp" (AfD-Wahlprogramm 2025, S. 12) und „Deshalb lehnen wir den weiteren Ausbau der Windenergie ab" (ebd., S. 80).
+* **Im Bundestag:** Der Antrag „Wind- und Photovoltaikindustrie zurückdrängen" (12.12.2025, Drs. 21/3146) will Klimaschutzgesetz, Windflächenbedarfsgesetz und EEG aufheben. Wind- und Photovoltaikanlagen „vernichteten ‚Heimaträume', machten Menschen krank, töteten unzählige Tiere" und wirkten als „ein ganzheitliches Zerstörungsverfahren, dessen Verheerungen nun langsam in deutschen Landen beobachtbar werden" (hib 696/2025).
+* **Gesetzentwurf und Moratorium:** Drs. 21/5388 will das Windenergieflächenbedarfsgesetz abschaffen, Drs. 21/5058 verlangt ein „Bundesweites Moratorium des Windindustrieausbaus". Beide wurden am 08.05.2026 beraten und nach einstündiger Aussprache an die Ausschüsse überwiesen.
+* **Die PFAS-Anfragen:** Die Kleine Anfrage der AfD zu PFAS (Drs. 21/4561) hat die Bundesregierung am 19.03.2026 beantwortet (Drs. 21/4906). Zum Abrieb von Windenergieanlagen verweist sie auf ihre Antwort vom 10.12.2025 (Schriftliche Frage 178, BT-Drs. 21/3236): „Keine gesicherten Erkenntnisse" über einen PFAS-Eintrag durch Rotorblatt-Abrieb, die Schätzungen zum Materialabrieb seien „unterschiedlich und voneinander abweichend". Auf Landesebene werden dieselben Kausalketten abgefragt: in Rheinland-Pfalz über die Große Anfrage „PFAS und Erneuerbare Energien" (18/6662, Antwort 18/7182), in Nordrhein-Westfalen per Antrag, der einen 1.000-Meter-Abstand und ein Gutachten fordert, ob Windindustrieanlagen PFAS in die Umwelt tragen (LT NRW 18/17453 vom 20.01.2026).
+* **Das eigentliche Ziel:** Adressat der Maßnahmenpakete ist die Stromwende, nicht der Artenschutz. Der Naturschutzbund fordert keinen Stopp, sondern den naturverträglichen Ausbau der Windkraft (NABU).
+
+## 6. Wer den Unsinn streut – und warum diese Kanäle auf der Blacklist stehen
+
+Die Behauptungen entstehen nicht am örtlichen Stammtisch, sondern in einem gut vernetzten Milieu aus Anti-Windkraft-Vereinigungen, „Alternativmedien“ und Telegram-Kanälen, die einander abschreiben und dieselben Schaubilder teilen. Wer diese Kanäle zitiert, bekommt zwölfmal dieselbe unbelegte Behauptung zu lesen – ein vielfacher Abdruck ist kein Beleg, sondern das Echo einer einzigen Quelle. Deshalb führt der Vault zwölf dieser Falschinformations-Kanäle auf der [[Blacklist|Empörungsmedien-Blacklist]] (Basis: Campact-Übersicht „Empörungsmedien“) und sperrt sie als Quelle für Artikel: Sie sind Objekt der Kritik, keine Belege.
+
+* **Woher die Grundwasser-Behauptung stammt:** Die Anti-Windkraft-Vereinigung „Vernunftkraft“ argumentiert auf ihrer Website, die Betriebsstoffe der Windräder verunreinigten das Grundwasser. Der BR-Faktenfuchs dokumentiert diese Behauptung und hält dagegen: Fälle von Kontamination sind in Deutschland nicht bekannt; für 2019 meldete die bayerische Staatsregierung trotz 45 Anlagen in Trinkwasserschutzzonen der Zone 3 keine Verunreinigungen. In den Wasserschutzzonen 1 und 2 ist die Errichtung ohnehin generell untersagt (Faktenfuchs, 09.07.2022).
+* **Wer nachlegt:** Das Compact-Magazin leugnet unter der Rubrik „Klima-Terroristen“ den menschengemachten Klimawandel und bedient „den Hass auf Windräder“ (Campact, siehe [[Compact]]). Compact ist laut Verfassungsschutz seit 2021 gesichert rechtsextremistisch. Auch der seit 2022 EU-sanktionierte Staatssender [[RT DE]] verbreitet Desinformation und dient Rechtsextremen als Plattform; [[AUF1]] leugnet den Klimawandel und wurde 2024 vom Verfassungsschutz als „gesichert rechtsextremistische Bestrebung“ benannt. Mit „Tichys Einblick“ („Klimaskepsis“) und der Epoch Times („Klimawandelleugnung“) listet die Campact-Übersicht zwei weitere solcher Kanäle.
+* **Warum das Murks ist:** Die Kanäle bestätigen sich gegenseitig, statt an einer Anlage zu messen. Dieselben Schlagwörter – „Vogelschreddern“ (MDR-Faktencheck, 17.06.2025) oder Deutschland werde „streckenweise zur Trockenzone“ (ARD-Faktenfinder, 12.06.2024) – kursieren wortgleich durch die sozialen Netzwerke. Gegen diese Kausalketten stehen die Primärquellen aus den Abschnitten 2 bis 4 (BT-Drs. 21/3236, LAU, Genehmigungsbescheide). Und am Ende tragen genau diese Behauptungen die Anträge und Kleine Anfragen der AfD in die Parlamente (Abschnitt 5) – das Ziel bleibt der Ausbaustopp.
+
+## Quellen & Verweise
+
+* AfD: [Bundestagswahlprogramm 2025](https://www.afd.de/wahlprogramm25/) (Zitate S. 12 und S. 80)
+* Deutscher Bundestag: [hib 696/2025 – AfD will Wind- und Photovoltaikindustrie zurückdrängen (12.12.2025)](https://www.bundestag.de/presse/hib/kurzmeldungen-1132324)
+* Deutscher Bundestag: [Debatte zu Drs. 21/5388 und 21/5058 (08.05.2026)](https://www.bundestag.de/dokumente/textarchiv/2026/kw19-de-windenergieflaechen-1167354)
+* Deutscher Bundestag: [Antwort auf die Kleine Anfrage zur PFAS (Drs. 21/4906, 19.03.2026)](https://dserver.bundestag.de/btd/21/049/2104906.pdf)
+* Deutscher Bundestag: [Schriftliche Frage 178 zum PFAS-Abrieb von Windrädern (BT-Drs. 21/3236, 10.12.2025)](https://dserver.bundestag.de/btd/21/032/2103236.pdf)
+* Landtag Rheinland-Pfalz: [Antwort auf die Große Anfrage „PFAS und Erneuerbare Energien" (Drs. 18/7182)](https://dokumente.landtag.rlp.de/landtag/drucksachen/7182-18.pdf)
+* Landtag Nordrhein-Westfalen: [Antrag 18/17453 – Abstandsflächen für Windindustrieanlagen (20.01.2026)](https://www.landtag.nrw.de/portal/WWW/dokumentenarchiv/Dokument/MMD18-17453.pdf)
+* Suisse Eole: [Fakten zu Windenergie statt Falschinformationen – PFAS-Entwarnung (08.04.2026)](https://suisse-eole.ch/de/news/fakten-zu-windenergie-statt-falschinformationen-entwarnung-fuer-immobilienbesitzer-und-bezueglich-pfas)
+* LAU Sachsen-Anhalt: [Verbreitete Irrtümer über Windenergieanlagen](https://lau.sachsen-anhalt.de/fachthemen/klima/klimaschutz/verbreitete-irrtuemer-ueber-windenergieanlagen)
+* Quarks: [Kritik an Windkraft: Diese Behauptungen stimmen – und diese nicht](https://www.quarks.de/technik/energie/kritik-an-windkraft-behauptungen-im-check/)
+* IG Windkraft (Windfakten.at): [Der geringe Abrieb von Windrädern ist unbedeutsam](https://www.windfakten.at/?xmlval_ID_KEY%5B0%5D=1339)
+* NABU: [Gefahren für Vögel: Windkraft](https://www.nabu.de/tiere-und-pflanzen/voegel/gefaehrdungen/windenergie/index.html)
+* NABU: [Vogelfalle Glas](https://www.nabu.de/tiere-und-pflanzen/voegel/gefaehrdungen/11932.html)
+* NABU/Michael-Otto-Institut: [Windenergie und Vögel](https://bergenhusen.nabu.de/forschung/windenergie-und-voegel/index.html)
+* EnBW: [Welche Auswirkungen haben Windräder auf Vögel?](https://www.enbw.com/unternehmen/themen/windkraft/windraeder-und-voegel.html)
+* BUND: [Argumente für Windenergie – Fakten statt Mythen](https://www.bund.net/themen/aktuelles/detail-aktuelles/news/argumente-fuer-windenergie-fakten-statt-mythen)
+* ARD-Faktenfinder: [Windkraftanlagen verursachen keine Dürre (12.06.2024)](https://www.tagesschau.de/faktenfinder/windenergie-klima-100.html)
+* BR #Faktenfuchs: [Windräder und das Grundwasser – Behauptungen im Check (09.07.2022)](https://www.br.de/nachrichten/wissen/nein-windraedersind-keine-besonderegefahr-fuer-dasgrundwasser-faktenfuchs,TAz0liL)
+* MDR Wissen: [Windkraft im Faktencheck I: Vogelschreddern, Insektenschwund und bedrohte Arten (17.06.2025)](https://www.mdr.de/wissen/umwelt-klima/windkraft-windrad-wka-voegel-insekten-fledermaeuse-faktencheck-teil-eins-100.html)
+* Energie-Atlas Bayern: [PFAS und Windräder](https://energieatlas.bayern.de/erneuerbare-energien/windenergie/wissen/emissionen/pfas-und-windenergieanlagen)
+* Campact e.V.: [Empörungsmedien – Propaganda statt Information](https://www.campact.de/empoerungsmedien/)
+* Campact e.V.: [Compact Magazin – Einordnung und Kritik](https://www.campact.de/empoerungsmedien/compact/)
+* ABO Energy: [Windpark Dreimärker – Flächennutzungsvergleich (Info-Poster)](https://www.aboenergy.com/media/projekte/dreimaerker/poster_infomesse_dreimaerker.pdf)
+* SGD Nord Rheinland-Pfalz: [Genehmigungsbescheid Windpark Schweinschied (20.08.2025)](https://upload.open.rlp.de/eakte/3f1573a3-c301-4add-ada0-5213ac801552/resource/f89061c0-8677-47b6-b17e-e49030269c2f/download/genehmigung-wp-schweinschied.pdf)
+* BWE: [Rückbauverpflichtung bei Windenergieanlagen](https://www.wind-energie.de/fileadmin/redaktion/dokumente/hintergrundpapiere-oeffentlich/themen/Technik/20180611_bwe_hintergrundpapier_rueckbau.pdf)
+* agrarheute: [Abrieb von Windrädern für hohe PFAS-Werte in Wildschweinen verantwortlich? (11.03.2025)](https://www.agrarheute.com/energie/abrieb-windraedern-fuer-hohe-pfas-werte-wildschweinen-verantwortlich-633135)
+
+Verwandte Artikel: [[Fake News/Energiepreise und die Grünen|Energiepreise und die Grünen]] · [[AFD/Schwurbeleien/Great Replacement|Great Replacement]]
